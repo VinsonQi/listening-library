@@ -1,0 +1,19 @@
+{
+  "file": "recap.pdf",
+  "page_count": 6,
+  "page_size": "A4",
+  "full_script_verified": true,
+  "script_sha256": "d6da372f2c094b8e4f4928736c63b890ed4bdd1ed4cbe7bc46fbd769f22886d6",
+  "script_words": 1767,
+  "glossary_entries": 11,
+  "clickable_links": [
+    "https://www.nature.com/articles/s41586-025-09765-7",
+    "https://doi.org/10.1038/s41586-025-09765-7",
+    "https://www.nature.com/articles/s41586-025-09765-7",
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "all_characters_within_page_bounds": true,
+  "pdf_sha256": "e925c7d75341952c150a63b6fda27d3eea1c65564d0a4a89a0e18a6ffc65d0bf",
+  "pdf_size_bytes": 119478,
+  "visual_review": "All six rendered pages inspected, including full-size glossary/source samples; readable layout, no clipping, overlap or missing glyphs."
+}

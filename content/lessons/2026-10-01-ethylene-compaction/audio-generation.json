@@ -1,0 +1,227 @@
+{
+  "voice": "af_heart",
+  "model": "Kokoro-82M v1.0, full-precision ONNX",
+  "engine": "kokoro-onnx 0.6.1",
+  "modelSource": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+  "voiceSource": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+  "modelSHA256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+  "voicesSHA256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+  "speed": 1.0,
+  "sampleRate": 24000,
+  "channels": 1,
+  "bitRate": 128000,
+  "wordCount": 1767,
+  "durationSeconds": 712.992,
+  "pcmDurationSeconds": 712.9237916666667,
+  "runtimeSeconds": 318.1329894065857,
+  "scriptSHA256": "d6da372f2c094b8e4f4928736c63b890ed4bdd1ed4cbe7bc46fbd769f22886d6",
+  "mp3SHA256": "38126a559a5fc6d730d0b1a30a6fd46e8e37ad5f4d8f2f34258dc7e126f21e52",
+  "peakAmplitudeBeforeNormalization": 0.6780658960342407,
+  "rmsBeforeNormalization": 0.05888955667614937,
+  "paragraphPauseSeconds": 0.35,
+  "silencePadding": false,
+  "timeStretching": false,
+  "meetsMinimumDuration": true,
+  "paragraphs": [
+    {
+      "index": 1,
+      "text": "A root is a living structure moving through a changing environment. Its growth depends on water and nutrients, but also on the spaces between soil particles. When those spaces become smaller, a root may become shorter and thicker. We might imagine that hard soil simply stops it. The paper in this lesson gives us a more interesting explanation. The root also receives a chemical signal and changes the construction of its own cell walls.",
+      "spokenText": "A root is a living structure moving through a changing environment. Its growth depends on water and nutrients, but also on the spaces between soil particles. When those spaces become smaller, a root may become shorter and thicker. We might imagine that hard soil simply stops it. The paper in this lesson gives us a more interesting explanation. The root also receives a chemical signal and changes the construction of its own cell walls.",
+      "startSeconds": 0.0,
+      "durationSeconds": 26.373,
+      "words": 74
+    },
+    {
+      "index": 2,
+      "text": "Our source is an original research paper called \u201cEthylene modulates cell wall mechanics for root responses to compaction.\u201d Jiao Zhang and colleagues published it online in Nature in November twenty twenty-five. It appeared in the January twenty twenty-six issue. The experiments mainly concern rice seedlings. The central question is how a signal from compacted surroundings becomes a physical change in the root.",
+      "spokenText": "Our source is an original research paper called \u201cEthylene modulates cell wall mechanics for root responses to compaction.\u201d Jiao Zhang and colleagues published it online in Nature in November twenty twenty-five. It appeared in the January twenty twenty-six issue. The experiments mainly concern rice seedlings. The central question is how a signal from compacted surroundings becomes a physical change in the root.",
+      "startSeconds": 26.723,
+      "durationSeconds": 25.577,
+      "words": 62
+    },
+    {
+      "index": 3,
+      "text": "Compaction means that soil particles are pressed closer together. Agricultural machines can contribute to this process. The soil still contains pores, which are spaces holding air or water, but their size and connections can change. The root experiences this altered environment both physically and chemically. For our story, one important chemical is ethylene. Ethylene is a gas that plants produce, and it also acts as a hormone. A plant hormone is a chemical signal that influences growth and other activities.",
+      "spokenText": "Compaction means that soil particles are pressed closer together. Agricultural machines can contribute to this process. The soil still contains pores, which are spaces holding air or water, but their size and connections can change. The root experiences this altered environment both physically and chemically. For our story, one important chemical is ethylene. Ethylene is a gas that plants produce, and it also acts as a hormone. A plant hormone is a chemical signal that influences growth and other activities.",
+      "startSeconds": 52.65,
+      "durationSeconds": 32.963,
+      "words": 80
+    },
+    {
+      "index": 4,
+      "text": "Earlier research had shown that compacted soil can slow the movement of ethylene away from roots. This movement is called diffusion. In diffusion, molecules spread through the spaces available to them. When ethylene escapes less easily, it can build up around the root. The plant then responds to the stronger signal. The new paper investigates a further step: how this response changes cell walls and helps determine the shape of a growing root.",
+      "spokenText": "Earlier research had shown that compacted soil can slow the movement of ethylene away from roots. This movement is called diffusion. In diffusion, molecules spread through the spaces available to them. When ethylene escapes less easily, it can build up around the root. The plant then responds to the stronger signal. The new paper investigates a further step: how this response changes cell walls and helps determine the shape of a growing root.",
+      "startSeconds": 85.963,
+      "durationSeconds": 25.993,
+      "words": 73
+    },
+    {
+      "index": 5,
+      "text": "To understand that step, imagine a root in cross-section, as if we had cut a thin slice across it. The outermost cell layer is the epidermis. Inside it is a region called the cortex, made of several cell layers. Each cell has a wall around it. These walls help support the root, but they must also allow growth. A wall that supports a cell and a wall that allows a cell to expand are not completely separate things. Living cells continually adjust their walls.",
+      "spokenText": "To understand that step, imagine a root in cross-section, as if we had cut a thin slice across it. The outermost cell layer is the epidermis. Inside it is a region called the cortex, made of several cell layers. Each cell has a wall around it. These walls help support the root, but they must also allow growth. A wall that supports a cell and a wall that allows a cell to expand are not completely separate things. Living cells continually adjust their walls.",
+      "startSeconds": 112.307,
+      "durationSeconds": 27.262,
+      "words": 84
+    },
+    {
+      "index": 6,
+      "text": "One major wall material is cellulose. Cellulose consists of long chains of sugar molecules arranged into strong structures. Special proteins called cellulose synthases help produce it. The paper often shortens their name to CESA. There are several CESA genes, so changing one does not necessarily remove all cellulose production. This detail becomes important because a modest change and a severe loss of wall construction can have very different effects.",
+      "spokenText": "One major wall material is cellulose. Cellulose consists of long chains of sugar molecules arranged into strong structures. Special proteins called cellulose synthases help produce it. The paper often shortens their name to CESA. There are several CESA genes, so changing one does not necessarily remove all cellulose production. This detail becomes important because a modest change and a severe loss of wall construction can have very different effects.",
+      "startSeconds": 139.919,
+      "durationSeconds": 27.667,
+      "words": 69
+    },
+    {
+      "index": 7,
+      "text": "The researchers first grew rice seedlings in agar, a gel used for controlled experiments. They compared a softer gel with a denser gel. They also used a chemical that reduces cellulose production. At a higher concentration, the chemical reduced root growth. At a lower concentration, it helped roots penetrate the denser medium. This was an experimental tool for studying a mechanism. It was not a field recommendation to treat crops with that chemical.",
+      "spokenText": "The researchers first grew rice seedlings in agar, a gel used for controlled experiments. They compared a softer gel with a denser gel. They also used a chemical that reduces cellulose production. At a higher concentration, the chemical reduced root growth. At a lower concentration, it helped roots penetrate the denser medium. This was an experimental tool for studying a mechanism. It was not a field recommendation to treat crops with that chemical.",
+      "startSeconds": 167.936,
+      "durationSeconds": 27.177,
+      "words": 73
+    },
+    {
+      "index": 8,
+      "text": "The team then used genetics to test the idea more directly. They changed a rice gene called OsCESA6. The resulting plants are called mutants because their genetic sequence differs from the comparison plants. The comparison plants are often called wild type, meaning the standard version used in that experiment. The changed gene caused relatively mild effects on cellulose production, allowing the scientists to study how roots responded to different surroundings.",
+      "spokenText": "The team then used genetics to test the idea more directly. They changed a rice gene called OsCESA6. The resulting plants are called mutants because their genetic sequence differs from the comparison plants. The comparison plants are often called wild type, meaning the standard version used in that experiment. The changed gene caused relatively mild effects on cellulose production, allowing the scientists to study how roots responded to different surroundings.",
+      "startSeconds": 195.463,
+      "durationSeconds": 27.273,
+      "words": 70
+    },
+    {
+      "index": 9,
+      "text": "An important part of the study used real soil. The researchers prepared less compacted and more compacted soil, with bulk densities of one point two and one point six grams per cubic centimetre. Bulk density describes the amount of dry soil packed into a given volume, including its pores. It is useful for describing the treatments, although it cannot describe every feature of the soil structure.",
+      "spokenText": "An important part of the study used real soil. The researchers prepared less compacted and more compacted soil, with bulk densities of one point two and one point six grams per cubic centimetre. Bulk density describes the amount of dry soil packed into a given volume, including its pores. It is useful for describing the treatments, although it cannot describe every feature of the soil structure.",
+      "startSeconds": 223.086,
+      "durationSeconds": 24.543,
+      "words": 66
+    },
+    {
+      "index": 10,
+      "text": "The team used X-ray imaging to see roots inside the soil. This method produces a three-dimensional picture without first washing away the surrounding material. After five days, roots of the CESA6 mutant were longer than wild-type roots in compacted soil. In germination pouches, however, their root lengths were similar. The difference therefore depended on the growth environment. The mutant was not simply a plant that always made a longer root.",
+      "spokenText": "The team used X-ray imaging to see roots inside the soil. This method produces a three-dimensional picture without first washing away the surrounding material. After five days, roots of the CESA6 mutant were longer than wild-type roots in compacted soil. In germination pouches, however, their root lengths were similar. The difference therefore depended on the growth environment. The mutant was not simply a plant that always made a longer root.",
+      "startSeconds": 247.979,
+      "durationSeconds": 26.121,
+      "words": 70
+    },
+    {
+      "index": 11,
+      "text": "Next, the researchers looked for a regulator connecting environmental signals to cellulose production. They identified a protein called OsARF1. We can call it ARF1 for the rest of the lesson. It is a transcription factor. That means it can help control how actively certain genes are used. The scientists used several molecular tests to show that ARF1 could attach to regulatory regions of cellulose-related genes and reduce their activity.",
+      "spokenText": "Next, the researchers looked for a regulator connecting environmental signals to cellulose production. They identified a protein called OsARF1. We can call it ARF1 for the rest of the lesson. It is a transcription factor. That means it can help control how actively certain genes are used. The scientists used several molecular tests to show that ARF1 could attach to regulatory regions of cellulose-related genes and reduce their activity.",
+      "startSeconds": 274.45,
+      "durationSeconds": 27.69,
+      "words": 69
+    },
+    {
+      "index": 12,
+      "text": "In dense growing conditions, ARF1 activity increased especially in the cortex near the growing part of the root. Activity of CESA6 decreased in a similar region. This matched the proposed relationship: more of the regulator, less activity of the cellulose-making system. The researchers also made plants with reduced ARF1 function and plants producing more ARF1. Comparing these lines helped test whether the relationship mattered for root growth, rather than simply appearing alongside it.",
+      "spokenText": "In dense growing conditions, ARF1 activity increased especially in the cortex near the growing part of the root. Activity of CESA6 decreased in a similar region. This matched the proposed relationship: more of the regulator, less activity of the cellulose-making system. The researchers also made plants with reduced ARF1 function and plants producing more ARF1. Comparing these lines helped test whether the relationship mattered for root growth, rather than simply appearing alongside it.",
+      "startSeconds": 302.49,
+      "durationSeconds": 32.911,
+      "words": 73
+    },
+    {
+      "index": 13,
+      "text": "The ordinary rice roots became wider under compacted conditions. Roots lacking normal ARF1 function did not show the same widening response. Plants producing more ARF1 had wider roots even in less compacted conditions. Their root length was also less strongly reduced by compacted soil. In one comparison, compaction reduced wild-type root length by about thirty-five percent, while the reduction in the ARF1 overexpression line was about nineteen percent.",
+      "spokenText": "The ordinary rice roots became wider under compacted conditions. Roots lacking normal ARF1 function did not show the same widening response. Plants producing more ARF1 had wider roots even in less compacted conditions. Their root length was also less strongly reduced by compacted soil. In one comparison, compaction reduced wild-type root length by about thirty-five percent, while the reduction in the ARF1 overexpression line was about nineteen percent.",
+      "startSeconds": 335.751,
+      "durationSeconds": 31.726,
+      "words": 68
+    },
+    {
+      "index": 14,
+      "text": "Overexpression means producing more of a gene's product than usual. These results support a role for ARF1 in adjusting root growth, but the numbers belong to the particular experiment. They are not universal values for rice fields. The researchers also combined changes in ARF1 and CESA6. These combined genetic tests supported the idea that ARF1 affects the response partly through the cellulose-producing machinery.",
+      "spokenText": "Overexpression means producing more of a gene's product than usual. These results support a role for ARF1 in adjusting root growth, but the numbers belong to the particular experiment. They are not universal values for rice fields. The researchers also combined changes in ARF1 and CESA6. These combined genetic tests supported the idea that ARF1 affects the response partly through the cellulose-producing machinery.",
+      "startSeconds": 367.827,
+      "durationSeconds": 27.103,
+      "words": 63
+    },
+    {
+      "index": 15,
+      "text": "The most useful physical picture appeared when the scientists examined cell walls. In the relevant root region, changes associated with ARF1 and CESA6 produced thinner cortex cell walls and wider cortex cells. The outside layer behaved differently. Under dense conditions, epidermal cell walls became thicker. The proposed structure was therefore an expanding inner region with a comparatively strong outer layer. The whole root was not simply becoming softer everywhere.",
+      "spokenText": "The most useful physical picture appeared when the scientists examined cell walls. In the relevant root region, changes associated with ARF1 and CESA6 produced thinner cortex cell walls and wider cortex cells. The outside layer behaved differently. Under dense conditions, epidermal cell walls became thicker. The proposed structure was therefore an expanding inner region with a comparatively strong outer layer. The whole root was not simply becoming softer everywhere.",
+      "startSeconds": 395.279,
+      "durationSeconds": 31.023,
+      "words": 69
+    },
+    {
+      "index": 16,
+      "text": "This distinction matters. The authors suggest that a wider root with maintained outer support may resist bending or buckling as it moves forward. Buckling is a sudden bending under pressure, like a slender structure giving way when pushed from its end. This mechanical explanation is a proposed interpretation of the tissue changes. The work supports a connection between wall regulation and penetration, but it does not directly measure every force acting on a living root in soil.",
+      "spokenText": "This distinction matters. The authors suggest that a wider root with maintained outer support may resist bending or buckling as it moves forward. Buckling is a sudden bending under pressure, like a slender structure giving way when pushed from its end. This mechanical explanation is a proposed interpretation of the tissue changes. The work supports a connection between wall regulation and penetration, but it does not directly measure every force acting on a living root in soil.",
+      "startSeconds": 426.653,
+      "durationSeconds": 28.255,
+      "words": 77
+    },
+    {
+      "index": 17,
+      "text": "The researchers used very fine microscopy to measure wall thickness. They also used atomic force microscopy, which touches a surface with a tiny probe to compare its mechanical response. Here we need an important limitation. Those stiffness measurements were made on prepared root sections. The authors explicitly explain that these values are not direct measurements of wall stiffness inside an intact, living root. Cutting tissue changes its loading, geometry, and other conditions.",
+      "spokenText": "The researchers used very fine microscopy to measure wall thickness. They also used atomic force microscopy, which touches a surface with a tiny probe to compare its mechanical response. Here we need an important limitation. Those stiffness measurements were made on prepared root sections. The authors explicitly explain that these values are not direct measurements of wall stiffness inside an intact, living root. Cutting tissue changes its loading, geometry, and other conditions.",
+      "startSeconds": 455.257,
+      "durationSeconds": 30.713,
+      "words": 72
+    },
+    {
+      "index": 18,
+      "text": "The hormone evidence also needs careful wording. Treatment with a compound that plants use to produce ethylene strongly increased ARF1 expression. Genetic tests involving the ethylene response supported a link between that signal and cellulose regulation. But the pathway is not a simple chain with every detail solved. Other hormones may participate, and the authors identify relationships that still need investigation.",
+      "spokenText": "The hormone evidence also needs careful wording. Treatment with a compound that plants use to produce ethylene strongly increased ARF1 expression. Genetic tests involving the ethylene response supported a link between that signal and cellulose regulation. But the pathway is not a simple chain with every detail solved. Other hormones may participate, and the authors identify relationships that still need investigation.",
+      "startSeconds": 486.321,
+      "durationSeconds": 26.443,
+      "words": 61
+    },
+    {
+      "index": 19,
+      "text": "There is also a useful warning against an easy conclusion: thicker roots are not automatically better roots. The paper discusses other rice lines with reduced ethylene responses that can penetrate compacted soil despite being slimmer. More than one biological route can improve penetration. Root diameter alone cannot explain the whole result. Tissue properties, growth regulation, and the particular environment all contribute.",
+      "spokenText": "There is also a useful warning against an easy conclusion: thicker roots are not automatically better roots. The paper discusses other rice lines with reduced ethylene responses that can penetrate compacted soil despite being slimmer. More than one biological route can improve penetration. Root diameter alone cannot explain the whole result. Tissue properties, growth regulation, and the particular environment all contribute.",
+      "startSeconds": 513.113,
+      "durationSeconds": 26.494,
+      "words": 61
+    },
+    {
+      "index": 20,
+      "text": "Now we can move from the paper's findings to possible applications. The following ideas are suggestions for future sorghum research and modelling. They were not tested in this rice study. Rice and sorghum are both grasses, but that relationship does not prove that the same gene changes, wall properties, or growth benefits will occur in sorghum. Those possibilities need their own experiments.",
+      "spokenText": "Now we can move from the paper's findings to possible applications. The following ideas are suggestions for future sorghum research and modelling. They were not tested in this rice study. Rice and sorghum are both grasses, but that relationship does not prove that the same gene changes, wall properties, or growth benefits will occur in sorghum. Those possibilities need their own experiments.",
+      "startSeconds": 539.957,
+      "durationSeconds": 23.625,
+      "words": 62
+    },
+    {
+      "index": 21,
+      "text": "For a sorghum experiment, the paper suggests measuring more than final root length. Useful observations could include root diameter, cortex cell size, wall thickness, and the timing of growth slowing after a root enters a compacted layer. Soil water status and the structure of air-filled pores would also matter. If these measurements change together, they could help separate a physical obstacle from a regulated growth response. Such relationships would still need tests that change individual factors.",
+      "spokenText": "For a sorghum experiment, the paper suggests measuring more than final root length. Useful observations could include root diameter, cortex cell size, wall thickness, and the timing of growth slowing after a root enters a compacted layer. Soil water status and the structure of air-filled pores would also matter. If these measurements change together, they could help separate a physical obstacle from a regulated growth response. Such relationships would still need tests that change individual factors.",
+      "startSeconds": 563.933,
+      "durationSeconds": 30.953,
+      "words": 76
+    },
+    {
+      "index": 22,
+      "text": "For a coupled CPlantBox and DuMuX study, a useful starting point would be to treat this mechanism as a hypothesis. A simulation might compare a root growth response based only on soil resistance with one that also includes a delayed biological response. The goal would be to see which observations distinguish the alternatives. This would be a proposed model extension, not a claim that either software already represents the molecular pathway described in the paper.",
+      "spokenText": "For a coupled C Plant Box and Doo mooks study, a useful starting point would be to treat this mechanism as a hypothesis. A simulation might compare a root growth response based only on soil resistance with one that also includes a delayed biological response. The goal would be to see which observations distinguish the alternatives. This would be a proposed model extension, not a claim that either software already represents the molecular pathway described in the paper.",
+      "startSeconds": 595.235,
+      "durationSeconds": 30.49,
+      "words": 75
+    },
+    {
+      "index": 23,
+      "text": "An equally important modelling lesson concerns parameters. A parameter is a numerical value describing part of a model, such as a growth rate or a response strength. It would be risky to copy stiffness values from cut rice sections directly into a mechanical model of living sorghum roots. The measurements describe a particular material under particular test conditions. A useful model must respect that difference and show how uncertain parameter choices affect its predictions.",
+      "spokenText": "An equally important modelling lesson concerns parameters. A parameter is a numerical value describing part of a model, such as a growth rate or a response strength. It would be risky to copy stiffness values from cut rice sections directly into a mechanical model of living sorghum roots. The measurements describe a particular material under particular test conditions. A useful model must respect that difference and show how uncertain parameter choices affect its predictions.",
+      "startSeconds": 626.075,
+      "durationSeconds": 30.49,
+      "words": 74
+    },
+    {
+      "index": 24,
+      "text": "The paper also reminds us to choose the correct scale. Gene activity occurs inside cells. Cell expansion changes tissues. Tissue changes alter the shape and support of a root. Root growth then changes which parts of the soil a plant can reach. A model does not need to represent every detail, but it should not silently skip a connection that is essential to its explanation.",
+      "spokenText": "The paper also reminds us to choose the correct scale. Gene activity occurs inside cells. Cell expansion changes tissues. Tissue changes alter the shape and support of a root. Root growth then changes which parts of the soil a plant can reach. A model does not need to represent every detail, but it should not silently skip a connection that is essential to its explanation.",
+      "startSeconds": 656.915,
+      "durationSeconds": 23.58,
+      "words": 65
+    },
+    {
+      "index": 25,
+      "text": "The main message is that soil and roots interact through more than direct force. Compacted surroundings can change a chemical signal, and the plant can respond by rebuilding different cell layers in different ways. In these rice experiments, regulation of cellulose production helped connect that signal to root shape and penetration. For future work, the valuable idea is to study the root as an active, changing structure, while keeping measured results separate from promising explanations that still need to be tested.",
+      "spokenText": "The main message is that soil and roots interact through more than direct force. Compacted surroundings can change a chemical signal, and the plant can respond by rebuilding different cell layers in different ways. In these rice experiments, regulation of cellulose production helped connect that signal to root shape and penetration. For future work, the valuable idea is to study the root as an active, changing structure, while keeping measured results separate from promising explanations that still need to be tested.",
+      "startSeconds": 680.845,
+      "durationSeconds": 32.079,
+      "words": 81
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "voice": "af_heart",
+  "model": "Kokoro-82M v1.0, full-precision ONNX",
+  "engine": "kokoro-onnx 0.6.1",
+  "modelSource": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+  "voiceSource": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+  "modelSHA256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+  "voicesSHA256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+  "speed": 1.0,
+  "sampleRate": 24000,
+  "channels": 1,
+  "bitRate": 128000,
+  "wordCount": 1842,
+  "durationSeconds": 736.32,
+  "pcmDurationSeconds": 736.2684166666667,
+  "runtimeSeconds": 316.2112936973572,
+  "scriptSHA256": "4ab70f88b91815455b6991a85f703fca2805efd0cc4227ff6dca537d8505ba3d",
+  "mp3SHA256": "dc76731afbbfb5a3789e82e15bf0f6b81057a42eb0d30a014c10929e237427cc",
+  "peakAmplitudeBeforeNormalization": 0.6574121713638306,
+  "rmsBeforeNormalization": 0.05934823676943779,
+  "paragraphPauseSeconds": 0.35,
+  "silencePadding": false,
+  "timeStretching": false,
+  "meetsMinimumDuration": true,
+  "paragraphs": [
+    {
+      "index": 1,
+      "text": "How Sorghum Saves Water for Grain Filling",
+      "spokenText": "How Sorghum Saves Water for Grain Filling",
+      "startSeconds": 0.0,
+      "durationSeconds": 2.347,
+      "words": 7
+    },
+    {
+      "index": 2,
+      "text": "In a dry field, a green sorghum plant can look like a simple success story. Its leaves are still alive while nearby plants are turning brown. But the green colour is only the visible end of a longer story. That story begins weeks earlier, when leaves are growing, roots are exploring the soil, and the crop is using water that may become scarce later. To understand the final result, we need to follow the whole season.",
+      "spokenText": "In a dry field, a green sorghum plant can look like a simple success story. Its leaves are still alive while nearby plants are turning brown. But the green colour is only the visible end of a longer story. That story begins weeks earlier, when leaves are growing, roots are exploring the soil, and the crop is using water that may become scarce later. To understand the final result, we need to follow the whole season.",
+      "startSeconds": 2.697,
+      "durationSeconds": 24.351,
+      "words": 76
+    },
+    {
+      "index": 3,
+      "text": "Today's main paper is a study by Andrew Borrell and colleagues, published in New Phytologist in 2014. It examined sorghum plants with different stay-green genetic regions. Stay-green means that plants retain green leaves during the period when their grains develop. The researchers linked this trait to changes in canopy size and the timing of water use. Their result gives us a useful way to think about drought: water matters both because of where it is and because of when the plant uses it.",
+      "spokenText": "Today's main paper is a study by Andrew Borrell and colleagues, published in New Phytologist in 2014. It examined sorghum plants with different stay-green genetic regions. Stay-green means that plants retain green leaves during the period when their grains develop. The researchers linked this trait to changes in canopy size and the timing of water use. Their result gives us a useful way to think about drought: water matters both because of where it is and because of when the plant uses it.",
+      "startSeconds": 27.397,
+      "durationSeconds": 31.429,
+      "words": 83
+    },
+    {
+      "index": 4,
+      "text": "We will also draw on a closely related paper by the same research group in the Journal of Experimental Botany. That article provides further discussion of the connection between leaves, roots, and water. The original New Phytologist experiment remains our main case. The modelling ideas later in this lesson are possible applications of the evidence, rather than simulations performed in either paper.",
+      "spokenText": "We will also draw on a closely related paper by the same research group in the Journal of Experimental Botany. That article provides further discussion of the connection between leaves, roots, and water. The original New Phytologist experiment remains our main case. The modelling ideas later in this lesson are possible applications of the evidence, rather than simulations performed in either paper.",
+      "startSeconds": 59.176,
+      "durationSeconds": 25.631,
+      "words": 62
+    },
+    {
+      "index": 5,
+      "text": "Green colour also needs a careful interpretation. A leaf can remain green without continuing to photosynthesize effectively. Photosynthesis is the process that uses light energy to make sugars from carbon dioxide and water. Researchers therefore distinguish functional stay-green, which preserves useful leaf activity, from cosmetic stay-green, which mainly preserves appearance. Even active green leaves do not guarantee a good harvest if the plant has very few grains to fill. This is why breeders need to measure grain production as well as greenness. A visible trait can be a useful sign, but its value depends on the process behind it and the result it helps produce.",
+      "spokenText": "Green colour also needs a careful interpretation. A leaf can remain green without continuing to photosynthesize effectively. Photosynthesis is the process that uses light energy to make sugars from carbon dioxide and water. Researchers therefore distinguish functional stay-green, which preserves useful leaf activity, from cosmetic stay-green, which mainly preserves appearance. Even active green leaves do not guarantee a good harvest if the plant has very few grains to fill. This is why breeders need to measure grain production as well as greenness. A visible trait can be a useful sign, but its value depends on the process behind it and the result it helps produce.",
+      "startSeconds": 85.157,
+      "durationSeconds": 42.02,
+      "words": 105
+    },
+    {
+      "index": 6,
+      "text": "First, consider two important stages in a cereal crop's life. Before flowering, the plant builds much of its structure. After flowering, it develops and fills its grains. Scientists call flowering anthesis. Grain filling is the period when developing seeds accumulate material, including the starch that helps make grain a useful food. A crop can grow strongly early in the season and still perform poorly if it lacks water during this later stage.",
+      "spokenText": "First, consider two important stages in a cereal crop's life. Before flowering, the plant builds much of its structure. After flowering, it develops and fills its grains. Scientists call flowering anthesis. Grain filling is the period when developing seeds accumulate material, including the starch that helps make grain a useful food. A crop can grow strongly early in the season and still perform poorly if it lacks water during this later stage.",
+      "startSeconds": 127.527,
+      "durationSeconds": 26.707,
+      "words": 72
+    },
+    {
+      "index": 7,
+      "text": "Terminal drought is a shortage of water toward the end of the growing season. Imagine a soil profile that begins with stored water but receives little rain afterward. The soil profile is the sequence of soil layers below the surface. Roots draw from that stored supply as the crop grows. Early water use therefore changes the conditions experienced later. Water conservation in this setting means leaving some usable water in the soil for a later stage.",
+      "spokenText": "Terminal drought is a shortage of water toward the end of the growing season. Imagine a soil profile that begins with stored water but receives little rain afterward. The soil profile is the sequence of soil layers below the surface. Roots draw from that stored supply as the crop grows. Early water use therefore changes the conditions experienced later. Water conservation in this setting means leaving some usable water in the soil for a later stage.",
+      "startSeconds": 154.584,
+      "durationSeconds": 27.155,
+      "words": 76
+    },
+    {
+      "index": 8,
+      "text": "This does not mean that a plant should use as little water as possible. Growing leaves need resources, and leaves capture the light needed to produce sugars. A very small crop may save water but fail to produce enough grain. The useful balance depends on the environment. A strategy that works during a dry finish may have a different value when rain continues throughout the season. Drought adaptation is therefore a relationship between the plant and its conditions.",
+      "spokenText": "This does not mean that a plant should use as little water as possible. Growing leaves need resources, and leaves capture the light needed to produce sugars. A very small crop may save water but fail to produce enough grain. The useful balance depends on the environment. A strategy that works during a dry finish may have a different value when rain continues throughout the season. Drought adaptation is therefore a relationship between the plant and its conditions.",
+      "startSeconds": 182.089,
+      "durationSeconds": 26.453,
+      "words": 78
+    },
+    {
+      "index": 9,
+      "text": "The researchers studied four stay-green regions, called stay-green one, two, three, and four. These are quantitative trait loci, often shortened to QTLs. A QTL is a region of the genome associated with variation in a measurable characteristic. It is not automatically one identified gene. A region can contain several genes, and their effects may be connected. This distinction matters because a genetic label does not, by itself, explain the biological mechanism.",
+      "spokenText": "The researchers studied four stay-green regions, called stay-green one, two, three, and four. These are quantitative trait loci, often shortened to QTLs. A QTL is a region of the genome associated with variation in a measurable characteristic. It is not automatically one identified gene. A region can contain several genes, and their effects may be connected. This distinction matters because a genetic label does not, by itself, explain the biological mechanism.",
+      "startSeconds": 208.892,
+      "durationSeconds": 31.664,
+      "words": 71
+    },
+    {
+      "index": 10,
+      "text": "The study used near-isogenic lines. These are plant lines with very similar genetic backgrounds but selected differences in particular regions. Here, stay-green regions from one sorghum parent were introduced into another background. This design helps researchers examine individual regions without comparing two completely unrelated varieties. It makes a more focused comparison, although it does not remove every possible genetic difference or prove that the same effect will appear in every variety.",
+      "spokenText": "The study used near-isogenic lines. These are plant lines with very similar genetic backgrounds but selected differences in particular regions. Here, stay-green regions from one sorghum parent were introduced into another background. This design helps researchers examine individual regions without comparing two completely unrelated varieties. It makes a more focused comparison, although it does not remove every possible genetic difference or prove that the same effect will appear in every variety.",
+      "startSeconds": 240.906,
+      "durationSeconds": 32.09,
+      "words": 71
+    },
+    {
+      "index": 11,
+      "text": "The New Phytologist study combined seven experiments representing fourteen managed environments. Some experiments took place in fields, and others used containers under more controlled conditions. The researchers measured plant development, leaf area, water use, and grain production. Combining these observations was important. A final photograph of green leaves would not reveal how the crop reached that state, while a final yield measurement alone would not explain its earlier water use.",
+      "spokenText": "The New Phytologist study combined seven experiments representing fourteen managed environments. Some experiments took place in fields, and others used containers under more controlled conditions. The researchers measured plant development, leaf area, water use, and grain production. Combining these observations was important. A final photograph of green leaves would not reveal how the crop reached that state, while a final yield measurement alone would not explain its earlier water use.",
+      "startSeconds": 273.346,
+      "durationSeconds": 30.419,
+      "words": 70
+    },
+    {
+      "index": 12,
+      "text": "In the field, soil water was measured repeatedly at different depths. This allowed the team to follow changes in the water stored below the crop. Leaf measurements provided another part of the explanation. The canopy is the collection of leaves above the ground. A larger canopy can capture more light, but it also provides more surface through which water may leave the plant. This water loss is called transpiration. Roots and leaves are connected through that flow.",
+      "spokenText": "In the field, soil water was measured repeatedly at different depths. This allowed the team to follow changes in the water stored below the crop. Leaf measurements provided another part of the explanation. The canopy is the collection of leaves above the ground. A larger canopy can capture more light, but it also provides more surface through which water may leave the plant. This water loss is called transpiration. Roots and leaves are connected through that flow.",
+      "startSeconds": 304.115,
+      "durationSeconds": 26.463,
+      "words": 77
+    },
+    {
+      "index": 13,
+      "text": "The stay-green lines generally developed a smaller canopy by flowering. They produced fewer tillers, which are additional shoots growing from the base of the plant, and had changes in the size of their upper leaves. The different genetic regions did not affect every component equally. This is useful because the same overall canopy size can arise in several ways. Fewer shoots and smaller leaves are different developmental routes to a similar whole-plant result.",
+      "spokenText": "The stay-green lines generally developed a smaller canopy by flowering. They produced fewer tillers, which are additional shoots growing from the base of the plant, and had changes in the size of their upper leaves. The different genetic regions did not affect every component equally. This is useful because the same overall canopy size can arise in several ways. Fewer shoots and smaller leaves are different developmental routes to a similar whole-plant result.",
+      "startSeconds": 330.928,
+      "durationSeconds": 26.847,
+      "words": 73
+    },
+    {
+      "index": 14,
+      "text": "An apparent puzzle now becomes easier to understand. A plant that has less green leaf area at flowering can retain useful green leaves later. Its early size and its late condition describe different moments. Smaller early demand can leave more water available during grain filling. In everyday terms, the plant's earlier growth changes the resources available to support its later work. The advantage is connected to the season's water budget, rather than simply to the amount of green tissue at one moment.",
+      "spokenText": "An apparent puzzle now becomes easier to understand. A plant that has less green leaf area at flowering can retain useful green leaves later. Its early size and its late condition describe different moments. Smaller early demand can leave more water available during grain filling. In everyday terms, the plant's earlier growth changes the resources available to support its later work. The advantage is connected to the season's water budget, rather than simply to the amount of green tissue at one moment.",
+      "startSeconds": 358.125,
+      "durationSeconds": 32.079,
+      "words": 82
+    },
+    {
+      "index": 15,
+      "text": "One field comparison makes the timing especially clear. Under low water and high planting density, the stay-green one line used about one hundred and thirty-nine millimetres of water before flowering. The comparison line used one hundred and seventy-two. After flowering, the order reversed. stay-green one used about one hundred and ninety-seven millimetres, while the comparison line used one hundred and forty-five. Millimetres here express a volume of water spread across an area of land, as rainfall measurements do.",
+      "spokenText": "One field comparison makes the timing especially clear. Under low water and high planting density, the stay-green one line used about one hundred and thirty-nine millimetres of water before flowering. The comparison line used one hundred and seventy-two. After flowering, the order reversed. stay-green one used about one hundred and ninety-seven millimetres, while the comparison line used one hundred and forty-five. Millimetres here express a volume of water spread across an area of land, as rainfall measurements do.",
+      "startSeconds": 390.553,
+      "durationSeconds": 33.071,
+      "words": 78
+    },
+    {
+      "index": 16,
+      "text": "The important pattern is lower use early and higher use later. The later difference was also greater than the earlier saving, so simple conservation was not the entire explanation. The researchers considered improved access to water as an additional possibility. Their drought treatments also showed higher grain yields in the stay-green lines, although not every individual comparison was statistically significant. These findings support a useful seasonal strategy, while leaving room to investigate exactly how the extra water became accessible.",
+      "spokenText": "The important pattern is lower use early and higher use later. The later difference was also greater than the earlier saving, so simple conservation was not the entire explanation. The researchers considered improved access to water as an additional possibility. Their drought treatments also showed higher grain yields in the stay-green lines, although not every individual comparison was statistically significant. These findings support a useful seasonal strategy, while leaving room to investigate exactly how the extra water became accessible.",
+      "startSeconds": 423.975,
+      "durationSeconds": 34.414,
+      "words": 79
+    },
+    {
+      "index": 17,
+      "text": "This is where roots enter the story carefully. A root system might reach more soil, or it might extract more water from soil it already occupies. These possibilities are different. Root architecture describes the arrangement of roots, including their depth, direction, and branching. Hydraulic properties describe how easily water moves into and through those roots. A larger explored volume and easier transport could both influence uptake, but they should not be treated as the same trait.",
+      "spokenText": "This is where roots enter the story carefully. A root system might reach more soil, or it might extract more water from soil it already occupies. These possibilities are different. Root architecture describes the arrangement of roots, including their depth, direction, and branching. Hydraulic properties describe how easily water moves into and through those roots. A larger explored volume and easier transport could both influence uptake, but they should not be treated as the same trait.",
+      "startSeconds": 458.739,
+      "durationSeconds": 30.787,
+      "words": 76
+    },
+    {
+      "index": 18,
+      "text": "The main study did not directly demonstrate that the stay-green one plants had deeper roots. Greater water use is evidence about water use; it does not uniquely identify the root structure responsible. The authors discussed possible root contributions, supported by other research. For a modeller, this is an important boundary. A measured difference in crop water use cannot simply be converted into a certain increase in maximum root depth. That would turn a plausible explanation into an unsupported fact.",
+      "spokenText": "The main study did not directly demonstrate that the stay-green one plants had deeper roots. Greater water use is evidence about water use; it does not uniquely identify the root structure responsible. The authors discussed possible root contributions, supported by other research. For a modeller, this is an important boundary. A measured difference in crop water use cannot simply be converted into a certain increase in maximum root depth. That would turn a plausible explanation into an unsupported fact.",
+      "startSeconds": 489.876,
+      "durationSeconds": 31.897,
+      "words": 79
+    },
+    {
+      "index": 19,
+      "text": "Now consider how these ideas could guide a CPlantBox and DuMuX study. CPlantBox can represent plant organs and their development, while DuMuX provides numerical tools for flow through porous materials such as soil. Coupling the models means allowing the plant and soil calculations to exchange information. Roots remove water, changing the soil. The changed soil then influences how much water the roots can obtain. The connection works in both directions as time passes.",
+      "spokenText": "Now consider how these ideas could guide a C Plant Box and Doo mooks study. C Plant Box can represent plant organs and their development, while Doo mooks provides numerical tools for flow through porous materials such as soil. Coupling the models means allowing the plant and soil calculations to exchange information. Roots remove water, changing the soil. The changed soil then influences how much water the roots can obtain. The connection works in both directions as time passes.",
+      "startSeconds": 522.123,
+      "durationSeconds": 31.053,
+      "words": 73
+    },
+    {
+      "index": 20,
+      "text": "A first virtual comparison could keep root properties identical and change only the seasonal demand for water. One simulated canopy would develop a larger early demand; another would have a smaller one. The model would then show the consequences for remaining soil water and later uptake under the chosen assumptions. This would isolate a demand-side explanation. It would not establish that real plants have identical roots, but it would reveal what canopy differences alone could explain.",
+      "spokenText": "A first virtual comparison could keep root properties identical and change only the seasonal demand for water. One simulated canopy would develop a larger early demand; another would have a smaller one. The model would then show the consequences for remaining soil water and later uptake under the chosen assumptions. This would isolate a demand-side explanation. It would not establish that real plants have identical roots, but it would reveal what canopy differences alone could explain.",
+      "startSeconds": 553.526,
+      "durationSeconds": 31.001,
+      "words": 76
+    },
+    {
+      "index": 21,
+      "text": "A second comparison could keep canopy demand fixed and change root architecture. For example, the roots could explore different depths or spread differently between rows. A third could change water transport properties while keeping the geometry similar. Separating these comparisons would make the results easier to interpret. If all characteristics changed together, a better model outcome would not reveal which change mattered. A final combined comparison could examine how root supply and leaf demand interact.",
+      "spokenText": "A second comparison could keep canopy demand fixed and change root architecture. For example, the roots could explore different depths or spread differently between rows. A third could change water transport properties while keeping the geometry similar. Separating these comparisons would make the results easier to interpret. If all characteristics changed together, a better model outcome would not reveal which change mattered. A final combined comparison could examine how root supply and leaf demand interact.",
+      "startSeconds": 584.877,
+      "durationSeconds": 31.972,
+      "words": 75
+    },
+    {
+      "index": 22,
+      "text": "These are proposed numerical experiments, not results from the sorghum papers. They would also need measurements for checking their predictions. Matching total seasonal water use would be insufficient if the model removed that water at the wrong time. Matching uptake timing would still leave uncertainty if it dried the wrong soil layers. Leaf area, flowering date, soil water by depth, and uptake through time would provide several independent views of the same plant-soil system.",
+      "spokenText": "These are proposed numerical experiments, not results from the sorghum papers. They would also need measurements for checking their predictions. Matching total seasonal water use would be insufficient if the model removed that water at the wrong time. Matching uptake timing would still leave uncertainty if it dried the wrong soil layers. Leaf area, flowering date, soil water by depth, and uptake through time would provide several independent views of the same plant-soil system.",
+      "startSeconds": 617.198,
+      "durationSeconds": 26.921,
+      "words": 74
+    },
+    {
+      "index": 23,
+      "text": "The field results also need to remain attached to their conditions. Planting density changes how much soil and light are available per plant. Rainfall timing changes the value of early water savings. Soil depth and water transport change whether stored water can actually reach roots. In parts of the study, rain shelters also meant that water treatments occupied separate field blocks. These details are reasons to test the explanation across conditions, rather than assume that one successful treatment represents every field.",
+      "spokenText": "The field results also need to remain attached to their conditions. Planting density changes how much soil and light are available per plant. Rainfall timing changes the value of early water savings. Soil depth and water transport change whether stored water can actually reach roots. In parts of the study, rain shelters also meant that water treatments occupied separate field blocks. These details are reasons to test the explanation across conditions, rather than assume that one successful treatment represents every field.",
+      "startSeconds": 644.469,
+      "durationSeconds": 33.103,
+      "words": 81
+    },
+    {
+      "index": 24,
+      "text": "There is a further limit when moving from water uptake to yield. A water-flow model does not automatically predict the number or mass of grains. Yield also depends on development, photosynthesis, and the movement of resources into seeds. A useful hydraulic simulation can explain access to water without yet providing a complete crop-production model. Keeping that distinction clear helps us choose an output that the model can genuinely support.",
+      "spokenText": "There is a further limit when moving from water uptake to yield. A water-flow model does not automatically predict the number or mass of grains. Yield also depends on development, photosynthesis, and the movement of resources into seeds. A useful hydraulic simulation can explain access to water without yet providing a complete crop-production model. Keeping that distinction clear helps us choose an output that the model can genuinely support.",
+      "startSeconds": 677.922,
+      "durationSeconds": 26.441,
+      "words": 69
+    },
+    {
+      "index": 25,
+      "text": "The main lesson is a seasonal one. A root trait gains its meaning through the water available around it and the demand placed on it. The sorghum research shows why early growth deserves attention when explaining late drought performance. For coupled modelling, the practical idea is to follow the changing balance between supply and demand, test competing mechanisms separately, and keep observed results distinct from proposed explanations. A green plant at harvest is the outcome of that longer history.",
+      "spokenText": "The main lesson is a seasonal one. A root trait gains its meaning through the water available around it and the demand placed on it. The sorghum research shows why early growth deserves attention when explaining late drought performance. For coupled modelling, the practical idea is to follow the changing balance between supply and demand, test competing mechanisms separately, and keep observed results distinct from proposed explanations. A green plant at harvest is the outcome of that longer history.",
+      "startSeconds": 704.713,
+      "durationSeconds": 31.555,
+      "words": 79
+    }
+  ]
+}

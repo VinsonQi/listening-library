@@ -1,0 +1,179 @@
+{
+  "id": "2026-10-01-root-hairs-water-2023",
+  "slug": "root-hairs-water-2023",
+  "title": "Root hairs and water: why contact and shrinkage matter",
+  "summary": "An original, passive-listening explanation of a maize root-hair study. Detailed X-ray images and digital hair removal reveal why extra soil contact can help water uptake during drying, and why hair shrinkage can reduce that benefit.",
+  "language": "en",
+  "level": "B1–B2",
+  "target_duration_minutes": 10,
+  "word_count": 1812,
+  "estimated_duration_minutes": 10.7,
+  "source": {
+    "title": "The effect of root hairs on root water uptake is determined by root–soil contact and root hair shrinkage",
+    "journal": "New Phytologist",
+    "authors": [
+      "Patrick Duddek",
+      "Mutez Ali Ahmed",
+      "Mathieu Javaux",
+      "Jan Vanderborght",
+      "Goran Lovric",
+      "Andrew King",
+      "Andrea Carminati"
+    ],
+    "publication_date": "2023-07-31",
+    "publication_date_type": "First published online",
+    "issue_date": "2023-12",
+    "volume": "240",
+    "issue": "6",
+    "pages": "2484–2497",
+    "doi": "10.1111/nph.19144",
+    "doi_url": "https://doi.org/10.1111/nph.19144",
+    "url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144",
+    "full_text_url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144",
+    "additional_source_url": "https://www.ufz.de/export/data/458/280275_Duddek_2023_The%20effect%20of%20root%20hairs%20on%20root%20water%20uptake%20is%20determined%20by%20root%E2%80%93soil%20contact%20and%20root%20hair%20shrinkage.pdf",
+    "accessed_on": "2026-10-01",
+    "license": "Creative Commons Attribution License (explicitly stated on page 1 of the accessible original PDF; version not asserted)",
+    "article_type": "Original research; synchrotron imaging and image-based water-flow modeling"
+  },
+  "authors": [
+    "Patrick Duddek",
+    "Mutez Ali Ahmed",
+    "Mathieu Javaux",
+    "Jan Vanderborght",
+    "Goran Lovric",
+    "Andrew King",
+    "Andrea Carminati"
+  ],
+  "journal": "New Phytologist",
+  "publication_date": "2023-07-31",
+  "paper_title": "The effect of root hairs on root water uptake is determined by root–soil contact and root hair shrinkage",
+  "doi": "10.1111/nph.19144",
+  "source_url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144",
+  "script_sha256": "3d2a02e2ae02be73acbea8e5a171b8f8a07074c4b3c6e78f825fc47e57739315",
+  "attribution": "Original listening lesson based on Duddek et al. (2023), New Phytologist 240:2484–2497, DOI 10.1111/nph.19144. Source article distributed under a Creative Commons Attribution License. The lesson paraphrases and explains the paper; it is not the original article.",
+  "scope_note": "The main evidence is simulation using six image-based maize root segments, not a field or whole-plant water-use trial. The 24% mean increase applies to the driest tested main comparison before adding hair shrinkage; 86% is explained variation, not the fraction of water supplied by hairs. Soil-potential ranges are model- and scenario-specific. Sorghum/CPlantBox/DuMuX applications are interpretation and proposed tests, not direct source findings.",
+  "supporting_sources": [
+    {
+      "title": "Official CPlantBox repository: Introduction",
+      "url": "https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox",
+      "purpose": "Verify general architecture and model-coupling context only.",
+      "accessed_on": "2026-10-01"
+    },
+    {
+      "title": "Official dumux-rosi repository: Introduction",
+      "url": "https://github.com/Plant-Root-Soil-Interactions-Modelling/dumux-rosi",
+      "purpose": "Verify root–soil water-model coupling context only.",
+      "accessed_on": "2026-10-01"
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "root hair",
+      "definition": "A thin extension of one cell on the root surface.",
+      "example": "A root hair can reach into spaces that the main root cannot enter."
+    },
+    {
+      "term": "pore",
+      "definition": "A space between solid soil materials, which may contain water or air.",
+      "example": "An air-filled pore can interrupt a liquid-water pathway."
+    },
+    {
+      "term": "rhizosphere",
+      "definition": "The soil region influenced by a root.",
+      "example": "Water conditions in the rhizosphere can differ from those farther away."
+    },
+    {
+      "term": "root–soil interface",
+      "definition": "The boundary where the root and the surrounding soil meet.",
+      "example": "Contact at the root–soil interface affects water uptake."
+    },
+    {
+      "term": "segmentation",
+      "definition": "Dividing an image into labeled parts, such as roots, soil, and pores.",
+      "example": "Segmentation lets the researchers build a model from an X-ray image."
+    },
+    {
+      "term": "water potential",
+      "definition": "A measure of the energy state of water that helps explain its movement.",
+      "example": "A water-potential difference drives water toward the root."
+    },
+    {
+      "term": "matric potential",
+      "definition": "The effect of soil surfaces and pore spaces on the energy state of water.",
+      "example": "Soil matric potential becomes more negative as the soil dries."
+    },
+    {
+      "term": "hydraulic conductivity",
+      "definition": "How easily water moves through a material under a given driving force.",
+      "example": "Soil hydraulic conductivity can fall sharply during drying."
+    },
+    {
+      "term": "steady state",
+      "definition": "A condition in which the calculated flow pattern no longer changes with time.",
+      "example": "The study compared steady-state flow with and without hairs."
+    },
+    {
+      "term": "turgor",
+      "definition": "The internal pressure that helps a plant cell remain firm.",
+      "example": "A root hair may shrink when it loses turgor."
+    },
+    {
+      "term": "sensitivity analysis",
+      "definition": "Checking how a result changes when an uncertain input changes.",
+      "example": "Sensitivity analysis helps identify important hydraulic parameters."
+    },
+    {
+      "term": "effective parameter",
+      "definition": "A simpler value used to represent the combined effect of smaller details.",
+      "example": "An effective contact parameter may summarize many tiny root–soil connections.",
+      "highlight_forms": [
+        "effective contact",
+        "Effective"
+      ]
+    }
+  ],
+  "additional_sources": [
+    {
+      "title": "Official CPlantBox repository: Introduction",
+      "url": "https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox",
+      "purpose": "Verify general architecture and model-coupling context only.",
+      "accessed_on": "2026-10-01"
+    },
+    {
+      "title": "Official dumux-rosi repository: Introduction",
+      "url": "https://github.com/Plant-Root-Soil-Interactions-Modelling/dumux-rosi",
+      "purpose": "Verify root–soil water-model coupling context only.",
+      "accessed_on": "2026-10-01"
+    }
+  ],
+  "category": "Research",
+  "difficulty": 2,
+  "target_minutes": 10,
+  "main_idea": "An original, passive-listening explanation of a maize root-hair study. Detailed X-ray images and digital hair removal reveal why extra soil contact can help water uptake during drying, and why hair shrinkage can reduce that benefit.",
+  "source_name": "The effect of root hairs on root water uptake is determined by root–soil contact and root hair shrinkage",
+  "source_type": "Peer-reviewed research",
+  "source_published": "2023-07-31",
+  "source_checked": "2026-10-01",
+  "words": [
+    "root hair: A thin extension of one cell on the root surface.",
+    "pore: A space between solid soil materials, which may contain water or air.",
+    "rhizosphere: The soil region influenced by a root.",
+    "root–soil interface: The boundary where the root and the surrounding soil meet.",
+    "segmentation: Dividing an image into labeled parts, such as roots, soil, and pores.",
+    "water potential: A measure of the energy state of water that helps explain its movement.",
+    "matric potential: The effect of soil surfaces and pore spaces on the energy state of water.",
+    "hydraulic conductivity: How easily water moves through a material under a given driving force.",
+    "steady state: A condition in which the calculated flow pattern no longer changes with time.",
+    "turgor: The internal pressure that helps a plant cell remain firm.",
+    "sensitivity analysis: Checking how a result changes when an uncertain input changes.",
+    "effective parameter: A simpler value used to represent the combined effect of smaller details."
+  ],
+  "published": true,
+  "voice": {
+    "model": "Kokoro-82M v1.0 full-precision ONNX",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "type": "synthetic neural narration"
+  },
+  "sort_order": 3
+}

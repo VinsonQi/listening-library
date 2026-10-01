@@ -1,0 +1,83 @@
+{
+  "paper_title": "Dynamic root microbiome sustains soybean productivity under unbalanced fertilization",
+  "source_url": "https://www.nature.com/articles/s41467-024-45925-5",
+  "doi": "10.1038/s41467-024-45925-5",
+  "access": "Read full publisher HTML, results, discussion, figure captions, and methods including DNA spike-in timing, sampling design, and validation conditions. Original article open access CC BY 4.0.",
+  "verified_claims": [
+    {
+      "claim": "Four fertilizer treatments, including NPK control and omission of N, P, or K, were applied at a Harbin field experiment started in 1979; three plots per treatment; 2020 sampling at eight stages from days 1 to 72.",
+      "evidence_location": "Methods: Experimental design, sampling, and measurement of soil chemical properties; Figure 1.",
+      "source_url": "https://www.nature.com/articles/s41467-024-45925-5"
+    },
+    {
+      "claim": "Available P was 95% lower in the -P treatment; soybean yield was reduced by 25–29% in the two reported seasons. The -N treatment had no statistically significant yield difference from control, despite a 9% higher reported average.",
+      "evidence_location": "Results: Effects of fertilization on soil chemical properties and soybean performance; Figure 1B–C.",
+      "source_url": "https://www.nature.com/articles/s41467-024-45925-5"
+    },
+    {
+      "claim": "QMP used artificial DNA spike sequences during PCR amplification to estimate gene-copy abundances.",
+      "evidence_location": "Methods: High-throughput sequencing and bioinformatic analysis. Spikes were mixed with extracted DNA before amplification, not added before DNA extraction.",
+      "source_url": "https://www.nature.com/articles/s41467-024-45925-5"
+    },
+    {
+      "claim": "Actinobacteria relative abundance declined with plant age while absolute abundance rose by 2.1-fold in the rhizosphere and 18.8-fold in the endosphere.",
+      "evidence_location": "Results: Assembly of root-associated microbiome during plant development; Figures 3–4.",
+      "source_url": "https://www.nature.com/articles/s41467-024-45925-5"
+    },
+    {
+      "claim": "Under -P, rhizosphere bacterial load fell relative to control by 54%, 61%, and 75% at days 42, 60, and 72; the endosphere did not show the same consistent pattern.",
+      "evidence_location": "Results: Assembly of root-associated microbiome during plant development; Figure 3B–C.",
+      "source_url": "https://www.nature.com/articles/s41467-024-45925-5"
+    },
+    {
+      "claim": "SynCom5 increased dry weight at 2 weeks by 38% with added N and 18% without it relative to SynCtrl.",
+      "evidence_location": "Results: A low-nitrogen-enriched cluster promotes plant growth; Figure 7E–F.",
+      "source_url": "https://www.nature.com/articles/s41467-024-45925-5"
+    },
+    {
+      "claim": "Validation used sterilized vermiculite, nutrient solution with or without NH4NO3, 12 seedlings per treatment, inoculation after germination and one week later, and measurements at 2 and 3 weeks after first inoculation.",
+      "evidence_location": "Methods: Rhizosphere microbial isolation and experimental validation.",
+      "source_url": "https://www.nature.com/articles/s41467-024-45925-5"
+    },
+    {
+      "claim": "Nitrogen-fixation activity was not detected in any tested strain, although selected SynComs had greater IAA and ACC-deaminase measures and some strains solubilized inorganic phosphorus.",
+      "evidence_location": "Results final paragraph before Discussion; Methods: Characterization of plant growth-promoting traits in synthetic communities.",
+      "source_url": "https://www.nature.com/articles/s41467-024-45925-5"
+    }
+  ],
+  "limitations": [
+    "One long-term field site and one detailed-sampling soybean variety; field soil legacy covaries with nutrient availability and other chemical differences.",
+    "No detected statistically significant -N yield benefit, and no proof that the selected SynCom alone caused field productivity.",
+    "Controlled SynCom growth tests measured young plants over weeks, not mature grain yield from field inoculation.",
+    "DNA marker copies do not directly equal viable cell counts or process rates.",
+    "Bradyrhizobiaceae-associated sequences were filtered from the endosphere 16S analysis to reduce effects of nodule symbiosis; rhizobia were additionally examined with rpoB.",
+    "Co-occurrence networks do not establish direct cooperation; functional-gene representation does not directly measure nutrient flux.",
+    "Sorghum does not normally form soybean-type nitrogen-fixing root nodules; transfer of outcomes needs crop-specific tests."
+  ],
+  "application_status": "Temporal sampling, quantitative load measures, and process-based extensions to CPlantBox/DuMuX are proposed research ideas only. No software capability or validated sorghum parameter is claimed.",
+  "numerical_checks": {
+    "word_count": 1827,
+    "field_start_year": 1979,
+    "sampling_days": [
+      1,
+      4,
+      7,
+      14,
+      28,
+      42,
+      60,
+      72
+    ],
+    "plots_per_treatment": 3,
+    "minus_P_available_P_reduction_percent": 95,
+    "minus_P_yield_reduction_percent_range": [
+      25,
+      29
+    ],
+    "day_72_rhizosphere_load_reduction_percent": 75,
+    "SynCom5_two_week_dry_weight_gain_percent_N_plus": 38,
+    "SynCom5_two_week_dry_weight_gain_percent_N_minus": 18
+  },
+  "license": "CC BY 4.0 verified in Rights and permissions",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/"
+}

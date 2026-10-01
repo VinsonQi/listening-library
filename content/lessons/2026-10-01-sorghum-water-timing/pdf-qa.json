@@ -1,0 +1,23 @@
+{
+  "file": "recap.pdf",
+  "page_count": 6,
+  "page_size": "A4",
+  "full_script_verified": true,
+  "script_sha256": "4ab70f88b91815455b6991a85f703fca2805efd0cc4227ff6dca537d8505ba3d",
+  "script_words": 1842,
+  "glossary_entries": 12,
+  "clickable_links": [
+    "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12869",
+    "https://doi.org/10.1111/nph.12869",
+    "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12869",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4223986/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4223986/",
+    "https://creativecommons.org/licenses/by/3.0/",
+    "https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox",
+    "https://github.com/Plant-Root-Soil-Interactions-Modelling/dumux-rosi"
+  ],
+  "all_characters_within_page_bounds": true,
+  "pdf_sha256": "ab687cfa5f1b0d543d62a1561b2807e5ef751342dbf78801c567aa40ec62f823",
+  "pdf_size_bytes": 121117,
+  "visual_review": "All six rendered pages inspected; updated source page re-inspected full-size with supporting study and license links. No clipping, overlap or missing glyphs."
+}

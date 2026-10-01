@@ -1,0 +1,91 @@
+{
+  "source": {
+    "title": "OpenSimRoot: widening the scope and application of root architectural models",
+    "journal": "New Phytologist",
+    "authors": [
+      "Johannes A. Postma",
+      "Christian Kuppe",
+      "Markus R. Owen",
+      "Nathan Mellor",
+      "Marcus Griffiths",
+      "Malcolm J. Bennett",
+      "Jonathan P. Lynch",
+      "Michelle Watt"
+    ],
+    "publication_date": "2017-06-27",
+    "publication_date_type": "First published online",
+    "issue_date": "2017-08",
+    "volume": "215",
+    "issue": "3",
+    "pages": "1274–1286",
+    "doi": "10.1111/nph.14641",
+    "doi_url": "https://doi.org/10.1111/nph.14641",
+    "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641",
+    "full_text_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641",
+    "additional_source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5575537/",
+    "accessed_on": "2026-10-01",
+    "license": "Creative Commons Attribution License (article license verified in PMC publication record; version not asserted)",
+    "article_type": "Original methods and model-development article"
+  },
+  "full_text_read": true,
+  "sections_read": [
+    "Summary",
+    "Introduction",
+    "Materials and Methods",
+    "Results",
+    "Discussion"
+  ],
+  "claims": [
+    {
+      "claim": "The framework grows a connected root network using rules for root initiation, elongation, and direction, with distinct root classes.",
+      "location": "Materials and Methods → Description of the various modules → Root growth and RSA; Figure 2",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641",
+      "evidence_type": "Model description"
+    },
+    {
+      "claim": "Carbon available for growth is compared with carbon requirements; some allocation priorities are pragmatic rather than established physiological mechanisms.",
+      "location": "Materials and Methods → Carbon allocation to roots",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641",
+      "evidence_type": "Model assumptions and explicit limitation"
+    },
+    {
+      "claim": "The hydrology module couples soil water transport, a root xylem network, and evapotranspiration, and can simulate compensatory uptake and redistribution.",
+      "location": "Materials and Methods → Hydrology; Figure 3",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641",
+      "evidence_type": "Reported model capability"
+    },
+    {
+      "claim": "The hydrology module described in the 2017 article does not simulate drought-related growth responses.",
+      "location": "Materials and Methods → Hydrology, final sentence",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641",
+      "evidence_type": "Explicit version-specific limitation"
+    },
+    {
+      "claim": "A local nutrient-dependent branching demonstration concentrates branches in phosphorus-rich topsoil and has fewer, longer laterals below.",
+      "location": "Materials and Methods → Root growth plasticity; Figure 5 caption",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641",
+      "evidence_type": "Simulation demonstration, not universal crop response"
+    },
+    {
+      "claim": "The paper reconstructs an imaged maize root system and predicts nitrate depletion around an imaged wheat root system; about 8% of visible maize roots were omitted because of image segmentation limits.",
+      "location": "Results → OpenSimRoot as an extension to plant phenotyping; Figure 6",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641",
+      "evidence_type": "New application demonstration"
+    },
+    {
+      "claim": "The authors emphasize heuristic value, development and testing of concepts, and prediction of mechanisms and trends.",
+      "location": "Discussion, paragraph beginning “We regard the heuristic value...”",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641",
+      "evidence_type": "Author-stated scope"
+    }
+  ],
+  "limits": [
+    "Original methods/model-development work; earlier SimRoot results in its Results section must not be mislabeled new field findings.",
+    "2017 water module lacks drought-related growth feedback.",
+    "Shoot architecture is simplified; carbon-allocation priorities partly pragmatic; local responses do not implement gradient sensing.",
+    "Image-derived geometries include segmentation and missing-fine-root uncertainties.",
+    "No sorghum experiment and no CPlantBox/DuMuX test in the primary source."
+  ],
+  "inference_for_user": "Use the paper’s architecture/function separation and measured-geometry approach to design new sorghum CPlantBox/DuMuX comparisons. Do not transfer crop parameters without sorghum measurements.",
+  "copyright_basis": "CC Attribution article license explicitly verified in original PMC record; all lesson prose is newly written."
+}

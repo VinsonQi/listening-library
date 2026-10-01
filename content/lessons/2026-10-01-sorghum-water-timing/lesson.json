@@ -1,0 +1,224 @@
+{
+  "slug": "sorghum-water-timing",
+  "title": "How Sorghum Saves Water for Grain Filling",
+  "summary": "A paper-grounded English listening lesson on sorghum stay-green genetics, canopy development, seasonal water use, and why stronger root uptake cannot automatically be attributed to deeper roots. It develops clearly labeled ideas for CPlantBox–DuMuX experiments.",
+  "language": "en",
+  "level": "B1–B2",
+  "format": "Continuous listening narrative with jargon explained in context; no exercises or listener-response questions",
+  "word_count": 1842,
+  "target_duration_minutes": 10,
+  "estimated_duration_minutes": 10.8,
+  "duration_note": "Text-based estimate at 170 words per minute; actual synthesized audio duration must be measured.",
+  "created_on": "2026-10-01",
+  "source": {
+    "title": "Stay-green alleles individually enhance grain yield in sorghum under drought by modifying canopy development and water uptake patterns",
+    "journal": "New Phytologist",
+    "authors": [
+      "Andrew K. Borrell",
+      "Erik J. van Oosterom",
+      "John E. Mullet",
+      "Barbara George-Jaeggli",
+      "David R. Jordan",
+      "Patricia E. Klein",
+      "Graeme L. Hammer"
+    ],
+    "publication_date": "2014-06-04",
+    "publication_date_note": "First published online; volume 203, issue 3, pages 817–830",
+    "year": 2014,
+    "volume": "203",
+    "issue": "3",
+    "pages": "817–830",
+    "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12869",
+    "doi": "10.1111/nph.12869",
+    "doi_url": "https://doi.org/10.1111/nph.12869",
+    "accessed_on": "2026-10-01",
+    "article_type": "Original research / Full paper",
+    "access_note": "Publisher full text, including Materials and Methods, Results, Discussion, Tables 1–3, and figure captions, inspected. The page labels the paper Free Access; no Creative Commons license verified for this primary article."
+  },
+  "supporting_sources": [
+    {
+      "title": "Drought adaptation of stay-green sorghum is associated with canopy development, leaf anatomy, root growth, and water uptake",
+      "journal": "Journal of Experimental Botany",
+      "authors": [
+        "Andrew K. Borrell",
+        "John E. Mullet",
+        "Barbara George-Jaeggli",
+        "Erik J. van Oosterom",
+        "Graeme L. Hammer",
+        "Patricia E. Klein",
+        "David R. Jordan"
+      ],
+      "publication_date": "2014-06-13",
+      "volume": "65",
+      "issue": "21",
+      "pages": "6251–6263",
+      "doi": "10.1093/jxb/eru232",
+      "doi_url": "https://doi.org/10.1093/jxb/eru232",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4223986/",
+      "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4223986/fullTextXML",
+      "accessed_on": "2026-10-01",
+      "license": "Creative Commons Attribution 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "role": "Supporting original research article from the same research group, explicitly distinguished in the narration. Its openly licensed explanations and reporting of the related experiments support expanded educational discussion; it does not replace the New Phytologist anchor."
+    },
+    {
+      "title": "CPlantBox official repository",
+      "url": "https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox",
+      "accessed_on": "2026-10-01",
+      "role": "Verified high-level plant-model capabilities and coupling with DuMuX"
+    },
+    {
+      "title": "dumux-rosi official repository",
+      "url": "https://github.com/Plant-Root-Soil-Interactions-Modelling/dumux-rosi",
+      "accessed_on": "2026-10-01",
+      "role": "Verified soil-flow interface and integration with CPlantBox"
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "stay-green",
+      "definition": "A trait in which leaves remain green later into grain development.",
+      "example": "The researchers compared stay-green lines with their recurrent parent."
+    },
+    {
+      "term": "canopy",
+      "definition": "The leaves and above-ground plant structures that collectively cover the ground.",
+      "example": "A smaller canopy can create less demand for water before flowering."
+    },
+    {
+      "term": "anthesis",
+      "definition": "The flowering stage of a plant.",
+      "example": "Water use was compared before and after anthesis."
+    },
+    {
+      "term": "grain filling",
+      "definition": "The period when developing seeds accumulate starch and other material.",
+      "example": "Stored soil water can support the crop during grain filling."
+    },
+    {
+      "term": "terminal drought",
+      "definition": "A shortage of water toward the end of the growing season.",
+      "example": "Early water savings may matter when terminal drought occurs."
+    },
+    {
+      "term": "transpiration",
+      "definition": "The loss of water vapour from a plant, mainly through its leaves.",
+      "example": "Transpiration connects leaf demand with root water uptake."
+    },
+    {
+      "term": "tiller",
+      "definition": "An additional shoot growing from the base of a grass plant.",
+      "example": "Fewer tillers can change the total leaf area of the crop."
+    },
+    {
+      "term": "quantitative trait locus",
+      "definition": "A genome region associated with variation in a measurable trait.",
+      "example": "A quantitative trait locus can contain more than one gene.",
+      "highlight_forms": [
+        "quantitative trait loci"
+      ]
+    },
+    {
+      "term": "near-isogenic lines",
+      "definition": "Plant lines with very similar genetic backgrounds and selected differences.",
+      "example": "Near-isogenic lines allow a more focused genetic comparison."
+    },
+    {
+      "term": "root architecture",
+      "definition": "The spatial arrangement of roots, including their depth, direction, and branching.",
+      "example": "Changing root architecture may change which soil regions a plant explores."
+    },
+    {
+      "term": "hydraulic properties",
+      "definition": "Characteristics that affect how easily water moves into or through a material or organ.",
+      "example": "Two similar root systems may have different hydraulic properties."
+    },
+    {
+      "term": "coupled model",
+      "definition": "A model in which connected parts exchange information during a simulation.",
+      "example": "A coupled model updates both root uptake and soil water conditions.",
+      "highlight_forms": [
+        "Coupling the models",
+        "coupled modelling"
+      ]
+    }
+  ],
+  "script_sha256": "4ab70f88b91815455b6991a85f703fca2805efd0cc4227ff6dca537d8505ba3d",
+  "attribution": "Original educational narration based on Borrell et al. (2014), New Phytologist, DOI 10.1111/nph.12869. Supporting educational explanations draw on Borrell et al. (2014), Journal of Experimental Botany, DOI 10.1093/jxb/eru232, licensed CC BY 3.0; that source is paraphrased and adapted, and the authors do not endorse this lesson. No figures or tables are reproduced.",
+  "scope_note": "New Phytologist is the main original-paper case. The related Journal of Experimental Botany paper is explicitly labeled as supporting material. The main paper does not directly establish deeper roots in Stg1. Proposed CPlantBox–DuMuX comparisons are original modelling suggestions, not simulations or results from either sorghum article.",
+  "pronunciation_note": "Script writes Stg1 as “stay-green one” and lists the four QTL names in spoken form for clearer narration.",
+  "additional_sources": [
+    {
+      "title": "Drought adaptation of stay-green sorghum is associated with canopy development, leaf anatomy, root growth, and water uptake",
+      "journal": "Journal of Experimental Botany",
+      "authors": [
+        "Andrew K. Borrell",
+        "John E. Mullet",
+        "Barbara George-Jaeggli",
+        "Erik J. van Oosterom",
+        "Graeme L. Hammer",
+        "Patricia E. Klein",
+        "David R. Jordan"
+      ],
+      "publication_date": "2014-06-13",
+      "volume": "65",
+      "issue": "21",
+      "pages": "6251–6263",
+      "doi": "10.1093/jxb/eru232",
+      "doi_url": "https://doi.org/10.1093/jxb/eru232",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4223986/",
+      "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4223986/fullTextXML",
+      "accessed_on": "2026-10-01",
+      "license": "Creative Commons Attribution 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "role": "Supporting original research article from the same research group, explicitly distinguished in the narration. Its openly licensed explanations and reporting of the related experiments support expanded educational discussion; it does not replace the New Phytologist anchor.",
+      "purpose": "Supporting original research article from the same research group, explicitly distinguished in the narration. Its openly licensed explanations and reporting of the related experiments support expanded educational discussion; it does not replace the New Phytologist anchor."
+    },
+    {
+      "title": "CPlantBox official repository",
+      "url": "https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox",
+      "accessed_on": "2026-10-01",
+      "role": "Verified high-level plant-model capabilities and coupling with DuMuX",
+      "purpose": "Verified high-level plant-model capabilities and coupling with DuMuX"
+    },
+    {
+      "title": "dumux-rosi official repository",
+      "url": "https://github.com/Plant-Root-Soil-Interactions-Modelling/dumux-rosi",
+      "accessed_on": "2026-10-01",
+      "role": "Verified soil-flow interface and integration with CPlantBox",
+      "purpose": "Verified soil-flow interface and integration with CPlantBox"
+    }
+  ],
+  "id": "2026-10-01-sorghum-water-timing",
+  "category": "Research",
+  "difficulty": 2,
+  "target_minutes": 10,
+  "main_idea": "A paper-grounded English listening lesson on sorghum stay-green genetics, canopy development, seasonal water use, and why stronger root uptake cannot automatically be attributed to deeper roots. It develops clearly labeled ideas for CPlantBox–DuMuX experiments.",
+  "source_name": "Stay-green alleles individually enhance grain yield in sorghum under drought by modifying canopy development and water uptake patterns",
+  "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12869",
+  "source_type": "Peer-reviewed research",
+  "source_published": "2014-06-04",
+  "source_checked": "2026-10-01",
+  "words": [
+    "stay-green: A trait in which leaves remain green later into grain development.",
+    "canopy: The leaves and above-ground plant structures that collectively cover the ground.",
+    "anthesis: The flowering stage of a plant.",
+    "grain filling: The period when developing seeds accumulate starch and other material.",
+    "terminal drought: A shortage of water toward the end of the growing season.",
+    "transpiration: The loss of water vapour from a plant, mainly through its leaves.",
+    "tiller: An additional shoot growing from the base of a grass plant.",
+    "quantitative trait locus: A genome region associated with variation in a measurable trait.",
+    "near-isogenic lines: Plant lines with very similar genetic backgrounds and selected differences.",
+    "root architecture: The spatial arrangement of roots, including their depth, direction, and branching.",
+    "hydraulic properties: Characteristics that affect how easily water moves into or through a material or organ.",
+    "coupled model: A model in which connected parts exchange information during a simulation."
+  ],
+  "published": true,
+  "voice": {
+    "model": "Kokoro-82M v1.0 full-precision ONNX",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "type": "synthetic neural narration"
+  },
+  "sort_order": 5
+}

@@ -1,0 +1,10 @@
+.sites-runtime/
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+models/
+.cache/
+qa/

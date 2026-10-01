@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://listening-library-vinson.vinsonqi2025.chatgpt.site/lessons/2026-10-01-dynamic-soybean-microbiome/audio.mp3",
+    "sha256": "5d7572b87fefe71f2f3ef6932255680c8d987db2ed7a8f77bec917b25a4e86ce",
+    "git_blob_sha": "2f49b13f6d2f2190687712f8494f297014fb5572",
+    "size": 12745004,
+    "destinations": [
+      "dist/lessons/2026-10-01-dynamic-soybean-microbiome/audio.mp3",
+      "content/lessons/2026-10-01-dynamic-soybean-microbiome/audio.mp3"
+    ]
+  },
+  {
+    "url": "https://listening-library-vinson.vinsonqi2025.chatgpt.site/lessons/2026-10-01-dynamic-soybean-microbiome/recap.pdf",
+    "sha256": "74c22661c67d0e92ce1b784ea1e3d7d7d6b1c58826d807c19825b4e125149583",
+    "git_blob_sha": "23b70f833b1c6de15078860a2f041dd16758c5e5",
+    "size": 120119,
+    "destinations": [
+      "dist/lessons/2026-10-01-dynamic-soybean-microbiome/recap.pdf",
+      "content/lessons/2026-10-01-dynamic-soybean-microbiome/recap.pdf"
+    ]
+  },
+  {
+    "url": "https://listening-library-vinson.vinsonqi2025.chatgpt.site/lessons/2026-10-01-ethylene-compaction/audio.mp3",
+    "sha256": "38126a559a5fc6d730d0b1a30a6fd46e8e37ad5f4d8f2f34258dc7e126f21e52",
+    "git_blob_sha": "946f7b8acc3a71b25f7caefa0c859e7057de1d92",
+    "size": 11408300,
+    "destinations": [
+      "dist/lessons/2026-10-01-ethylene-compaction/audio.mp3",
+      "content/lessons/2026-10-01-ethylene-compaction/audio.mp3"
+    ]
+  },
+  {
+    "url": "https://listening-library-vinson.vinsonqi2025.chatgpt.site/lessons/2026-10-01-ethylene-compaction/recap.pdf",
+    "sha256": "e925c7d75341952c150a63b6fda27d3eea1c65564d0a4a89a0e18a6ffc65d0bf",
+    "git_blob_sha": "775b7ea9c107ef8451ca357a7cada274d1d16a9f",
+    "size": 119478,
+    "destinations": [
+      "dist/lessons/2026-10-01-ethylene-compaction/recap.pdf",
+      "content/lessons/2026-10-01-ethylene-compaction/recap.pdf"
+    ]
+  },
+  {
+    "url": "https://listening-library-vinson.vinsonqi2025.chatgpt.site/lessons/2026-10-01-opensimroot-architecture-2017/audio.mp3",
+    "sha256": "8d042ee13d3ced4950dd1ff8778dfca765721d220a57855f25f7e1e195df5745",
+    "git_blob_sha": "5cf89bb9d010ac37bfa1d96ff86f8836c5286375",
+    "size": 11008556,
+    "destinations": [
+      "dist/lessons/2026-10-01-opensimroot-architecture-2017/audio.mp3",
+      "content/lessons/2026-10-01-opensimroot-architecture-2017/audio.mp3"
+    ]
+  },
+  {
+    "url": "https://listening-library-vinson.vinsonqi2025.chatgpt.site/lessons/2026-10-01-opensimroot-architecture-2017/recap.pdf",
+    "sha256": "9ac2cff39076f937f6fd62f5278bd4fe87f117bd7196bbc35cd7f3db1cfe9851",
+    "git_blob_sha": "dfb7bd9ded708dde117155a04392adf422d46499",
+    "size": 119017,
+    "destinations": [
+      "dist/lessons/2026-10-01-opensimroot-architecture-2017/recap.pdf",
+      "content/lessons/2026-10-01-opensimroot-architecture-2017/recap.pdf"
+    ]
+  },
+  {
+    "url": "https://listening-library-vinson.vinsonqi2025.chatgpt.site/lessons/2026-10-01-root-hairs-water-2023/audio.mp3",
+    "sha256": "41400b151d2bbc25370cf482d908871d3e0548c92a017e0275903090f3c7016e",
+    "git_blob_sha": "f4282169e60b2c3b0abaaf12f6e11959cc03dbb8",
+    "size": 10988204,
+    "destinations": [
+      "dist/lessons/2026-10-01-root-hairs-water-2023/audio.mp3",
+      "content/lessons/2026-10-01-root-hairs-water-2023/audio.mp3"
+    ]
+  },
+  {
+    "url": "https://listening-library-vinson.vinsonqi2025.chatgpt.site/lessons/2026-10-01-root-hairs-water-2023/recap.pdf",
+    "sha256": "1689186a0c6a03c733dd4fd9e6483da02fdc144b1634181c7ef7932d2f9b6a0c",
+    "git_blob_sha": "a0e4664b4d245dcde3c66595536a0b38f3928df8",
+    "size": 119413,
+    "destinations": [
+      "dist/lessons/2026-10-01-root-hairs-water-2023/recap.pdf",
+      "content/lessons/2026-10-01-root-hairs-water-2023/recap.pdf"
+    ]
+  },
+  {
+    "url": "https://listening-library-vinson.vinsonqi2025.chatgpt.site/lessons/2026-10-01-sorghum-water-timing/audio.mp3",
+    "sha256": "dc76731afbbfb5a3789e82e15bf0f6b81057a42eb0d30a014c10929e237427cc",
+    "git_blob_sha": "595802bc16257e41f459f806db1a9a33a7149508",
+    "size": 11781548,
+    "destinations": [
+      "dist/lessons/2026-10-01-sorghum-water-timing/audio.mp3",
+      "content/lessons/2026-10-01-sorghum-water-timing/audio.mp3"
+    ]
+  },
+  {
+    "url": "https://listening-library-vinson.vinsonqi2025.chatgpt.site/lessons/2026-10-01-sorghum-water-timing/recap.pdf",
+    "sha256": "ab687cfa5f1b0d543d62a1561b2807e5ef751342dbf78801c567aa40ec62f823",
+    "git_blob_sha": "7ed3fbc6ba6b7fd97c7febc0d52979b853e16f34",
+    "size": 121117,
+    "destinations": [
+      "dist/lessons/2026-10-01-sorghum-water-timing/recap.pdf",
+      "content/lessons/2026-10-01-sorghum-water-timing/recap.pdf"
+    ]
+  }
+]

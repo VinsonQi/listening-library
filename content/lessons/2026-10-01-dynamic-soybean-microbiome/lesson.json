@@ -1,0 +1,168 @@
+{
+  "slug": "dynamic-soybean-microbiome",
+  "title": "Why bacterial percentages can hide what roots experience",
+  "lesson_title": "Why bacterial percentages can hide what roots experience",
+  "topic": "Plant–soil microbiome dynamics and nutrient interactions",
+  "summary": "How decades of fertilizer management and changing plant age shape soybean root bacteria, why microbial amounts differ from percentages, and what small-community growth tests can and cannot prove.",
+  "language": "en",
+  "level": "B1–B2",
+  "status": "final",
+  "word_count": 1827,
+  "target_duration_minutes": 10,
+  "paper_title": "Dynamic root microbiome sustains soybean productivity under unbalanced fertilization",
+  "journal": "Nature Communications",
+  "volume": "15",
+  "article_number": "1668",
+  "authors": [
+    "Mingxing Wang",
+    "An-Hui Ge",
+    "Xingzhu Ma",
+    "Xiaolin Wang",
+    "Qiujin Xie",
+    "Like Wang",
+    "Xianwei Song",
+    "Mengchen Jiang",
+    "Weibing Yang",
+    "Jeremy D. Murray",
+    "Yayu Wang",
+    "Huan Liu",
+    "Xiaofeng Cao",
+    "Ertao Wang"
+  ],
+  "publication_date": "2024-02-23",
+  "doi": "10.1038/s41467-024-45925-5",
+  "doi_url": "https://doi.org/10.1038/s41467-024-45925-5",
+  "source_url": "https://www.nature.com/articles/s41467-024-45925-5",
+  "checked_on": "2026-10-01",
+  "paper_type": "Original research article",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "vocabulary": [
+    {
+      "term": "microbiome",
+      "definition": "A community of microorganisms associated with a particular environment.",
+      "example": "The root microbiome changed as soybean plants developed."
+    },
+    {
+      "term": "rhizosphere",
+      "definition": "The soil closely influenced by roots.",
+      "example": "Bacterial loads fell in the phosphorus-limited rhizosphere."
+    },
+    {
+      "term": "endosphere",
+      "definition": "The inside of plant tissues.",
+      "example": "The root endosphere differed from the surrounding soil."
+    },
+    {
+      "term": "germination",
+      "definition": "The beginning of seed growth.",
+      "example": "The team sampled plants after germination."
+    },
+    {
+      "term": "nodule",
+      "definition": "A small root structure that can contain nitrogen-fixing partner bacteria.",
+      "example": "Soybean formed more nodules in the treatment without nitrogen fertilizer."
+    },
+    {
+      "term": "nitrogen fixation",
+      "definition": "Converting nitrogen from the air into forms that organisms can use.",
+      "example": "Nitrogen fixation helps support the soybean partnership."
+    },
+    {
+      "term": "relative abundance",
+      "definition": "A group’s share of the total community.",
+      "example": "Relative abundance can fall while the amount of a group increases."
+    },
+    {
+      "term": "absolute abundance",
+      "definition": "An estimate of how much of a group is present, rather than its percentage.",
+      "example": "Absolute abundance increased despite a falling percentage."
+    },
+    {
+      "term": "microbial load",
+      "definition": "The estimated amount of microorganisms present in a sample.",
+      "example": "Microbial load was measured using DNA reference sequences."
+    },
+    {
+      "term": "enriched",
+      "definition": "More strongly represented in a comparison.",
+      "example": "Phosphorus-related genes were enriched under phosphorus limitation."
+    },
+    {
+      "term": "synthetic community",
+      "definition": "A small community assembled deliberately from selected microorganisms.",
+      "example": "The synthetic community contained five bacterial strains.",
+      "highlight_forms": [
+        "synthetic bacterial community",
+        "synthetic communities"
+      ]
+    },
+    {
+      "term": "substrate",
+      "definition": "The material in which an organism grows.",
+      "example": "The controlled experiment used vermiculite as its substrate."
+    }
+  ],
+  "script_sha256": "8f1d4b3c261cf6f368fe098cd92eaa431dfb07e33e0f2859c118bb0fef1712df",
+  "scope_note": "Soybean study at one long-term field site plus short seedling experiments in sterilized vermiculite. No claim of sorghum nodulation, field-yield improvement from SynCom inoculation, direct conversion from DNA abundance to nutrient flux, or detected nitrogen fixation by the tested SynCom strains.",
+  "attribution": "Original educational narration adapted from Wang et al., Nature Communications 15, 1668 (2024), https://doi.org/10.1038/s41467-024-45925-5. The original article is licensed CC BY 4.0. This lesson simplifies and reorganizes the findings and adds clearly identified teaching examples, limitations, and proposed applications; it is not the original article text.",
+  "narration_notes": "Continuous original English narration, no exercises. The simple 100/200-unit community example is explicitly hypothetical. Statistical non-significance, gene-copy measurement limits, and sorghum/model extrapolation are explained in the spoken script.",
+  "source": {
+    "title": "Dynamic root microbiome sustains soybean productivity under unbalanced fertilization",
+    "journal": "Nature Communications",
+    "authors": [
+      "Mingxing Wang",
+      "An-Hui Ge",
+      "Xingzhu Ma",
+      "Xiaolin Wang",
+      "Qiujin Xie",
+      "Like Wang",
+      "Xianwei Song",
+      "Mengchen Jiang",
+      "Weibing Yang",
+      "Jeremy D. Murray",
+      "Yayu Wang",
+      "Huan Liu",
+      "Xiaofeng Cao",
+      "Ertao Wang"
+    ],
+    "publication_date": "2024-02-23",
+    "url": "https://www.nature.com/articles/s41467-024-45925-5",
+    "doi": "10.1038/s41467-024-45925-5",
+    "doi_url": "https://doi.org/10.1038/s41467-024-45925-5",
+    "accessed_on": "2026-10-01",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "id": "2026-10-01-dynamic-soybean-microbiome",
+  "category": "Research",
+  "difficulty": 2,
+  "target_minutes": 10,
+  "main_idea": "How decades of fertilizer management and changing plant age shape soybean root bacteria, why microbial amounts differ from percentages, and what small-community growth tests can and cannot prove.",
+  "source_name": "Dynamic root microbiome sustains soybean productivity under unbalanced fertilization",
+  "source_type": "Original research article",
+  "source_published": "2024-02-23",
+  "source_checked": "2026-10-01",
+  "words": [
+    "microbiome: A community of microorganisms associated with a particular environment.",
+    "rhizosphere: The soil closely influenced by roots.",
+    "endosphere: The inside of plant tissues.",
+    "germination: The beginning of seed growth.",
+    "nodule: A small root structure that can contain nitrogen-fixing partner bacteria.",
+    "nitrogen fixation: Converting nitrogen from the air into forms that organisms can use.",
+    "relative abundance: A group’s share of the total community.",
+    "absolute abundance: An estimate of how much of a group is present, rather than its percentage.",
+    "microbial load: The estimated amount of microorganisms present in a sample.",
+    "enriched: More strongly represented in a comparison.",
+    "synthetic community: A small community assembled deliberately from selected microorganisms.",
+    "substrate: The material in which an organism grows."
+  ],
+  "published": true,
+  "voice": {
+    "model": "Kokoro-82M v1.0 full-precision ONNX",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "type": "synthetic neural narration"
+  },
+  "sort_order": 2
+}

@@ -1,0 +1,132 @@
+{
+  "lesson_title": "How Sorghum Saves Water for Grain Filling",
+  "primary_source": {
+    "title": "Stay-green alleles individually enhance grain yield in sorghum under drought by modifying canopy development and water uptake patterns",
+    "journal": "New Phytologist",
+    "authors": [
+      "Andrew K. Borrell",
+      "Erik J. van Oosterom",
+      "John E. Mullet",
+      "Barbara George-Jaeggli",
+      "David R. Jordan",
+      "Patricia E. Klein",
+      "Graeme L. Hammer"
+    ],
+    "publication_date": "2014-06-04",
+    "publication_date_note": "First published online; volume 203, issue 3, pages 817–830",
+    "year": 2014,
+    "volume": "203",
+    "issue": "3",
+    "pages": "817–830",
+    "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12869",
+    "doi": "10.1111/nph.12869",
+    "doi_url": "https://doi.org/10.1111/nph.12869",
+    "accessed_on": "2026-10-01",
+    "article_type": "Original research / Full paper",
+    "access_note": "Publisher full text, including Materials and Methods, Results, Discussion, Tables 1–3, and figure captions, inspected. The page labels the paper Free Access; no Creative Commons license verified for this primary article."
+  },
+  "supporting_research_source": {
+    "title": "Drought adaptation of stay-green sorghum is associated with canopy development, leaf anatomy, root growth, and water uptake",
+    "journal": "Journal of Experimental Botany",
+    "authors": [
+      "Andrew K. Borrell",
+      "John E. Mullet",
+      "Barbara George-Jaeggli",
+      "Erik J. van Oosterom",
+      "Graeme L. Hammer",
+      "Patricia E. Klein",
+      "David R. Jordan"
+    ],
+    "publication_date": "2014-06-13",
+    "volume": "65",
+    "issue": "21",
+    "pages": "6251–6263",
+    "doi": "10.1093/jxb/eru232",
+    "doi_url": "https://doi.org/10.1093/jxb/eru232",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4223986/",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4223986/fullTextXML",
+    "accessed_on": "2026-10-01",
+    "license": "Creative Commons Attribution 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "Supporting original research article from the same research group, explicitly distinguished in the narration. Its openly licensed explanations and reporting of the related experiments support expanded educational discussion; it does not replace the New Phytologist anchor."
+  },
+  "verification": {
+    "primary_fulltext_read": true,
+    "methods_read": true,
+    "results_read": true,
+    "discussion_read": true,
+    "main_tables_checked": [
+      "Table 1",
+      "Table 2",
+      "Table 3"
+    ],
+    "figure_captions_checked": [
+      "Figure 6",
+      "Figure 7"
+    ],
+    "supporting_fulltext_read": true,
+    "supporting_fulltext_format": "Europe PMC JATS XML",
+    "verified_on": "2026-10-01"
+  },
+  "sourced_facts": [
+    {
+      "claim": "Seven experiments and fourteen managed environments formed the main study.",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12869",
+      "locator": "Summary; Materials and Methods, Table 1",
+      "evidence_type": "Reported design"
+    },
+    {
+      "claim": "The authors used four near-isogenic RTx7000 lines containing individual Stg1, Stg2, Stg3, or Stg4 regions from BTx642.",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12869",
+      "also_supported_by": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4223986/",
+      "locator": "Materials and Methods, Generation of RTx7000 NILs; companion Materials and methods, Construction of RTx7000 NILs",
+      "evidence_type": "Reported design"
+    },
+    {
+      "claim": "In WAR05FLD low-water/high-density plots, Stg1 used 139 versus 172 mm before anthesis and 197 versus 145 mm afterward.",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12869",
+      "also_supported_by": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4223986/",
+      "locator": "Results, Stg QTLs affected crop water use before and after flowering; Figure 7; companion temporal water-use discussion",
+      "evidence_type": "Measured water-use comparison"
+    },
+    {
+      "claim": "The main paper links stay-green regions to a smaller canopy at flowering and better drought yield, with different effects among regions.",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12869",
+      "also_supported_by": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4223986/",
+      "locator": "Results, Tables 2–3; companion Results and discussion",
+      "evidence_type": "Reported results"
+    },
+    {
+      "claim": "Greater uptake suggested a root contribution; the main study did not directly demonstrate deeper Stg1 roots.",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12869",
+      "also_supported_by": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4223986/",
+      "locator": "Discussion, Impact of canopy development on grain yield under drought via water availability and drought adaptation; companion Stg loci modify root architecture and spatial water extraction patterns",
+      "evidence_type": "Boundary between measured result and proposed mechanism"
+    },
+    {
+      "claim": "Water treatments in the Warwick field trials occupied separate blocks because of rain-shelter constraints.",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12869",
+      "also_supported_by": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4223986/",
+      "locator": "Materials and Methods, Field experiments; companion Field experiments",
+      "evidence_type": "Design limitation"
+    }
+  ],
+  "interpretive_limits": [
+    "A QTL is a genomic region, not necessarily one identified causal gene.",
+    "The primary NIL comparisons use the RTx7000 genetic background and cannot establish identical effects in all sorghum varieties.",
+    "The primary study provides evidence for canopy and water-use changes; a unique architectural root cause was not identified.",
+    "Drought-yield improvements were not statistically significant in every individual comparison.",
+    "No consistent irrigated yield penalty does not mean there was no penalty in any irrigated treatment.",
+    "Field water depletion is not a direct measurement of a complete root architecture.",
+    "The lesson does not treat water-flow simulations as automatically predicting grain yield."
+  ],
+  "modelling_relevance": {
+    "status": "Proposed application by lesson author, not performed in the cited sorghum studies",
+    "proposal": "Separate canopy-demand, root-architecture, and hydraulic-property changes before testing their combination. Compare both timing and depth-resolved soil water, and check against independent plant observations.",
+    "capability_sources": [
+      "https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox",
+      "https://github.com/Plant-Root-Soil-Interactions-Modelling/dumux-rosi"
+    ]
+  },
+  "rights_note": "The primary publisher article is Free Access, but an open-reuse license was not verified. The related Journal of Experimental Botany article carries CC BY 3.0, verified in its full-text permissions element. Extended educational explanations are supported by this openly licensed article and original model reasoning. No source figures or tables are copied."
+}

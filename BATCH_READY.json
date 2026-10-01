@@ -1,0 +1,52 @@
+{
+  "status": "validated",
+  "lessons": [
+    {
+      "id": "2026-10-01-ethylene-compaction",
+      "title": "How roots rebuild themselves in compacted soil",
+      "journal": "Nature",
+      "authors": 23,
+      "publication_date": "2025-11-26",
+      "duration_seconds": 712.992,
+      "source": "https://www.nature.com/articles/s41586-025-09765-7"
+    },
+    {
+      "id": "2026-10-01-dynamic-soybean-microbiome",
+      "title": "Why bacterial percentages can hide what roots experience",
+      "journal": "Nature Communications",
+      "authors": 14,
+      "publication_date": "2024-02-23",
+      "duration_seconds": 796.536,
+      "source": "https://www.nature.com/articles/s41467-024-45925-5"
+    },
+    {
+      "id": "2026-10-01-root-hairs-water-2023",
+      "title": "Root hairs and water: why contact and shrinkage matter",
+      "journal": "New Phytologist",
+      "authors": 7,
+      "publication_date": "2023-07-31",
+      "duration_seconds": 686.736,
+      "source": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144"
+    },
+    {
+      "id": "2026-10-01-opensimroot-architecture-2017",
+      "title": "Root architecture: from a root picture to a working model",
+      "journal": "New Phytologist",
+      "authors": 8,
+      "publication_date": "2017-06-27",
+      "duration_seconds": 688.008,
+      "source": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641"
+    },
+    {
+      "id": "2026-10-01-sorghum-water-timing",
+      "title": "How Sorghum Saves Water for Grain Filling",
+      "journal": "New Phytologist",
+      "authors": 7,
+      "publication_date": "2014-06-04",
+      "duration_seconds": 736.32,
+      "source": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12869"
+    }
+  ],
+  "total_seconds": 3620.592,
+  "runtime_bytes": 58668968
+}

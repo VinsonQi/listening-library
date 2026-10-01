@@ -1,0 +1,103 @@
+{
+  "source": {
+    "title": "The effect of root hairs on root water uptake is determined by root–soil contact and root hair shrinkage",
+    "journal": "New Phytologist",
+    "authors": [
+      "Patrick Duddek",
+      "Mutez Ali Ahmed",
+      "Mathieu Javaux",
+      "Jan Vanderborght",
+      "Goran Lovric",
+      "Andrew King",
+      "Andrea Carminati"
+    ],
+    "publication_date": "2023-07-31",
+    "publication_date_type": "First published online",
+    "issue_date": "2023-12",
+    "volume": "240",
+    "issue": "6",
+    "pages": "2484–2497",
+    "doi": "10.1111/nph.19144",
+    "doi_url": "https://doi.org/10.1111/nph.19144",
+    "url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144",
+    "full_text_url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144",
+    "additional_source_url": "https://www.ufz.de/export/data/458/280275_Duddek_2023_The%20effect%20of%20root%20hairs%20on%20root%20water%20uptake%20is%20determined%20by%20root%E2%80%93soil%20contact%20and%20root%20hair%20shrinkage.pdf",
+    "accessed_on": "2026-10-01",
+    "license": "Creative Commons Attribution License (explicitly stated on page 1 of the accessible original PDF; version not asserted)",
+    "article_type": "Original research; synchrotron imaging and image-based water-flow modeling"
+  },
+  "full_text_read": true,
+  "sections_read": [
+    "Summary",
+    "Introduction",
+    "Materials and Methods",
+    "Results",
+    "Discussion"
+  ],
+  "claims": [
+    {
+      "claim": "Maize plants were grown for 14 days in loamy soil and root–soil geometries were obtained by synchrotron X-ray CT; water simulations were not intended to reproduce the water state during scanning.",
+      "location": "Materials and Methods, opening paragraphs; Plant growth; Imaging and image processing",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144",
+      "evidence_type": "Experimental method and stated modeling scope"
+    },
+    {
+      "claim": "The model used six static root segments approximately 1.4 mm long and compared each imaged geometry before and after digital removal of hairs.",
+      "location": "Materials and Methods → Mathematical model; Statistics; Figures 2 and 5",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144",
+      "evidence_type": "Model design"
+    },
+    {
+      "claim": "The outer soil water potential was varied while the inner root outlet boundary was fixed at −1.5 MPa; steady-state solutions were compared.",
+      "location": "Mathematical model, equations 3–6; Results, opening paragraphs",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144",
+      "evidence_type": "Boundary conditions and model calculation"
+    },
+    {
+      "claim": "In the driest main scenario (outer potential −1.26 MPa), hairs increased simulated water uptake by 24 ± 18% across the six samples before accounting for shrinkage.",
+      "location": "Results, paragraph beginning “Our model revealed...”; Figure 8a",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144",
+      "evidence_type": "Simulated result; not measured field uptake"
+    },
+    {
+      "claim": "Hair-induced increase in root–soil contact explained 86% of the variance in the modeled uptake benefit (R²=0.865, P=0.007), not 86% of total water uptake.",
+      "location": "Results; Figure 9 caption and Discussion",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144",
+      "evidence_type": "Regression across six image-derived geometries"
+    },
+    {
+      "claim": "Early-shrinkage scenario 2 eliminated the modeled positive hair effect; later-shrinkage scenario 1 retained benefit approximately from −1 to −0.1 MPa.",
+      "location": "Results, shrinkage paragraphs; Figures 4 and 8b; Table 2",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144",
+      "evidence_type": "Two parameterized shrinkage scenarios, assessed on the sample with greatest initial hair benefit"
+    },
+    {
+      "claim": "The model shows steeper local matric-potential gradients near the hairless root, whereas hairs distribute uptake over a wider radial region.",
+      "location": "Results; Figures 6–7; Discussion, first mechanistic paragraphs",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144",
+      "evidence_type": "Mechanistic model interpretation"
+    },
+    {
+      "claim": "The authors state the model is not intended for entire root systems and discuss container artifacts, ignored structure modification, and uncertainty in root-hair conductivity.",
+      "location": "Discussion, paragraphs beginning “We would like to emphasise...”, “Limitations of our model...”, “We are aware...”, and “Another limitation...”",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144",
+      "evidence_type": "Explicit limitations"
+    },
+    {
+      "claim": "Root hydraulic parameterization drew on water-flux work on lupin roots, and root hair cell-wall conductivity was not represented explicitly.",
+      "location": "Materials and Methods → Parameterisation; Discussion → limitation of root-hair hydraulic conductivity",
+      "source_url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19144",
+      "evidence_type": "Parameter provenance and limitation"
+    }
+  ],
+  "limits": [
+    "Six very short static maize segments from one loamy soil, not whole sorghum plants.",
+    "The quoted 24% benefit is a mean simulation difference under specific fixed boundaries without the additional shrinkage model.",
+    "The 86% result is a fitted relationship across six geometries and is not the water share taken up by hairs.",
+    "Shrinkage was assessed through two hydraulic scenarios on the sample with the largest initial hair effect.",
+    "Whole-system growth, new exploration of wet soil, dynamic shoot demand, and all soil-structure changes were not included.",
+    "Hair hydraulic parameterization and container-scale geometry introduce uncertainty."
+  ],
+  "inference_for_user": "The mechanism suggests testing soil-contact and drying-dependent conductance descriptions in a sorghum CPlantBox/DuMuX workflow; parameter values and whole-plant outcomes require sorghum-relevant data and independent validation.",
+  "copyright_basis": "Original PDF page 1 states Creative Commons Attribution License; all lesson prose is newly written."
+}

@@ -1,0 +1,151 @@
+{
+  "id": "2026-10-01-opensimroot-architecture-2017",
+  "slug": "opensimroot-architecture-2017",
+  "title": "Root architecture: from a root picture to a working model",
+  "summary": "An original, passive-listening explanation of the OpenSimRoot methods paper: how root growth rules, carbon costs, soil resources, and measured root images can be connected, with careful limits and a sorghum modeling interpretation.",
+  "language": "en",
+  "level": "B1–B2",
+  "target_duration_minutes": 10,
+  "word_count": 1771,
+  "estimated_duration_minutes": 10.4,
+  "source": {
+    "title": "OpenSimRoot: widening the scope and application of root architectural models",
+    "journal": "New Phytologist",
+    "authors": [
+      "Johannes A. Postma",
+      "Christian Kuppe",
+      "Markus R. Owen",
+      "Nathan Mellor",
+      "Marcus Griffiths",
+      "Malcolm J. Bennett",
+      "Jonathan P. Lynch",
+      "Michelle Watt"
+    ],
+    "publication_date": "2017-06-27",
+    "publication_date_type": "First published online",
+    "issue_date": "2017-08",
+    "volume": "215",
+    "issue": "3",
+    "pages": "1274–1286",
+    "doi": "10.1111/nph.14641",
+    "doi_url": "https://doi.org/10.1111/nph.14641",
+    "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641",
+    "full_text_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641",
+    "additional_source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5575537/",
+    "accessed_on": "2026-10-01",
+    "license": "Creative Commons Attribution License (article license verified in PMC publication record; version not asserted)",
+    "article_type": "Original methods and model-development article"
+  },
+  "authors": [
+    "Johannes A. Postma",
+    "Christian Kuppe",
+    "Markus R. Owen",
+    "Nathan Mellor",
+    "Marcus Griffiths",
+    "Malcolm J. Bennett",
+    "Jonathan P. Lynch",
+    "Michelle Watt"
+  ],
+  "journal": "New Phytologist",
+  "publication_date": "2017-06-27",
+  "paper_title": "OpenSimRoot: widening the scope and application of root architectural models",
+  "doi": "10.1111/nph.14641",
+  "source_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641",
+  "script_sha256": "ac7d3f6f1a4a0e49ff6d0460c10e2772f156eb84c9b0caf1c802f9b80881b334",
+  "attribution": "Original listening lesson based on Postma et al. (2017), New Phytologist 215:1274–1286, DOI 10.1111/nph.14641. Source article distributed under a Creative Commons Attribution License. The lesson paraphrases and explains the paper; it is not the original article.",
+  "scope_note": "The primary source is an original methods/model-development paper, not a review or a new field-yield trial. Earlier experiments cited by that paper are explicitly identified as earlier work. Statements about the 2017 software version are time-bounded. Sorghum/CPlantBox/DuMuX applications are interpretation and proposed tests, not findings of the source paper.",
+  "supporting_sources": [
+    {
+      "title": "Official CPlantBox repository: Introduction",
+      "url": "https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox",
+      "purpose": "Verify general current architecture and model-coupling capabilities; no software installation advice included.",
+      "accessed_on": "2026-10-01"
+    },
+    {
+      "title": "Official dumux-rosi repository: Introduction",
+      "url": "https://github.com/Plant-Root-Soil-Interactions-Modelling/dumux-rosi",
+      "purpose": "Verify soil-water solver coupling context only.",
+      "accessed_on": "2026-10-01"
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "root system architecture",
+      "definition": "The arrangement and connections of roots in space and time.",
+      "example": "Two plants can have the same root length but different root system architecture."
+    },
+    {
+      "term": "functional–structural model",
+      "definition": "A model that connects the shape of a plant with processes such as growth and uptake.",
+      "example": "A functional–structural model links root position with water uptake."
+    },
+    {
+      "term": "segment",
+      "definition": "A short piece of a root represented between two points.",
+      "example": "Each root segment can have its own age and diameter."
+    },
+    {
+      "term": "gravitropism",
+      "definition": "A growth response to gravity.",
+      "example": "Gravitropism influences the direction in which a root grows."
+    },
+    {
+      "term": "respiration",
+      "definition": "The process through which living cells release energy for their activities.",
+      "example": "Root respiration is part of the carbon cost of soil exploration."
+    },
+    {
+      "term": "plasticity",
+      "definition": "A change in development in response to environmental conditions.",
+      "example": "Root plasticity can change branching in a nutrient-rich patch."
+    },
+    {
+      "term": "compensatory uptake",
+      "definition": "Greater uptake from one region when another region supplies less.",
+      "example": "Roots in wet soil may provide compensatory uptake."
+    },
+    {
+      "term": "hydraulic redistribution",
+      "definition": "Movement of water through roots from wetter soil into drier soil.",
+      "example": "A root network can sometimes enable hydraulic redistribution."
+    },
+    {
+      "term": "depletion zone",
+      "definition": "An area where a resource concentration falls because roots remove it.",
+      "example": "The simulation estimates a nitrate depletion zone around the roots."
+    },
+    {
+      "term": "carbon allocation",
+      "definition": "How a plant shares carbon among organs and processes.",
+      "example": "A carbon-allocation rule can influence the growth of side roots."
+    }
+  ],
+  "category": "Research",
+  "difficulty": 2,
+  "target_minutes": 10,
+  "main_idea": "An original, passive-listening explanation of the OpenSimRoot methods paper: how root growth rules, carbon costs, soil resources, and measured root images can be connected, with careful limits and a sorghum modeling interpretation.",
+  "source_name": "OpenSimRoot: widening the scope and application of root architectural models",
+  "source_type": "Peer-reviewed research",
+  "source_published": "2017-06-27",
+  "source_checked": "2026-10-01",
+  "words": [
+    "root system architecture: The arrangement and connections of roots in space and time.",
+    "functional–structural model: A model that connects the shape of a plant with processes such as growth and uptake.",
+    "segment: A short piece of a root represented between two points.",
+    "gravitropism: A growth response to gravity.",
+    "respiration: The process through which living cells release energy for their activities.",
+    "plasticity: A change in development in response to environmental conditions.",
+    "compensatory uptake: Greater uptake from one region when another region supplies less.",
+    "hydraulic redistribution: Movement of water through roots from wetter soil into drier soil.",
+    "depletion zone: An area where a resource concentration falls because roots remove it.",
+    "carbon allocation: How a plant shares carbon among organs and processes."
+  ],
+  "published": true,
+  "voice": {
+    "model": "Kokoro-82M v1.0 full-precision ONNX",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "type": "synthetic neural narration"
+  },
+  "sort_order": 4
+}

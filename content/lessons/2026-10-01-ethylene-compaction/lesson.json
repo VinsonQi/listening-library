@@ -1,0 +1,178 @@
+{
+  "slug": "ethylene-compaction",
+  "lesson_title": "How roots rebuild themselves in compacted soil",
+  "title": "How roots rebuild themselves in compacted soil",
+  "topic": "Soil–root interactions and root mechanics",
+  "language": "en",
+  "level": "B1–B2",
+  "word_count": 1767,
+  "target_duration_minutes": 10,
+  "status": "final",
+  "summary": "A guided explanation of how ethylene signalling, cellulose production, and different root cell layers interact in rice seedlings growing through compacted soil. The lesson separates experimental findings from proposed sorghum and coupled-model applications.",
+  "paper_title": "Ethylene modulates cell wall mechanics for root responses to compaction",
+  "journal": "Nature",
+  "volume": "649",
+  "pages": "685–692",
+  "publication_date": "2025-11-26",
+  "issue_date": "2026-01-15",
+  "doi": "10.1038/s41586-025-09765-7",
+  "doi_url": "https://doi.org/10.1038/s41586-025-09765-7",
+  "source_url": "https://www.nature.com/articles/s41586-025-09765-7",
+  "authors": [
+    "Jiao Zhang",
+    "Zengyu Liu",
+    "Edward J. Farrar",
+    "Minhao Li",
+    "Hui Lu",
+    "Zhuo Qu",
+    "Osvaldo Chara",
+    "Nobutaka Mitsuda",
+    "Shingo Sakamoto",
+    "Feiyang Xue",
+    "Qiji Shan",
+    "Ya Yu",
+    "Jingbin Li",
+    "Xiaobo Zhu",
+    "Mingyuan Zhu",
+    "Jin Shi",
+    "Lucas Peralta Ogorek",
+    "Augusto Borges",
+    "Malcolm J. Bennett",
+    "Wanqi Liang",
+    "Bipin K. Pandey",
+    "Dabing Zhang",
+    "Staffan Persson"
+  ],
+  "paper_type": "Original research article",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Original educational narration adapted from Zhang et al., Nature 649, 685–692 (2026), published online 26 November 2025, https://doi.org/10.1038/s41586-025-09765-7. The original article is licensed CC BY 4.0. The explanation is simplified, reorganized, and supplemented with clearly marked teaching analogies and proposed research applications; it is not the original article text.",
+  "vocabulary": [
+    {
+      "term": "compaction",
+      "definition": "Soil particles being pressed closer together.",
+      "example": "Compaction can change how roots grow through soil."
+    },
+    {
+      "term": "diffusion",
+      "definition": "Molecules spreading through available space.",
+      "example": "Slower diffusion can allow ethylene to build up near a root."
+    },
+    {
+      "term": "ethylene",
+      "definition": "A gas produced by plants that also acts as a growth signal.",
+      "example": "Ethylene acts as a chemical signal in the root."
+    },
+    {
+      "term": "epidermis",
+      "definition": "The outermost cell layer of the root.",
+      "example": "The epidermis forms the outside layer of the root."
+    },
+    {
+      "term": "cortex",
+      "definition": "The region of several cell layers inside the root surface.",
+      "example": "Cortex cells became wider in the experiment."
+    },
+    {
+      "term": "cellulose",
+      "definition": "A strong material made from chains of sugar molecules in plant cell walls.",
+      "example": "Cellulose helps give plant cell walls their structure."
+    },
+    {
+      "term": "transcription factor",
+      "definition": "A protein that helps control how actively genes are used.",
+      "example": "ARF1 is a transcription factor that regulates other genes."
+    },
+    {
+      "term": "bulk density",
+      "definition": "The amount of dry soil packed into a volume that includes its pores.",
+      "example": "The compacted treatment had a higher bulk density."
+    },
+    {
+      "term": "overexpression",
+      "definition": "Producing more of a gene product than usual.",
+      "example": "Overexpression increased the production of ARF1."
+    },
+    {
+      "term": "buckling",
+      "definition": "Sudden bending of a structure under pressure.",
+      "example": "A wider structure may resist buckling under pressure."
+    },
+    {
+      "term": "parameter",
+      "definition": "A numerical value describing part of a model.",
+      "example": "A growth-rate parameter needs to match the conditions of the experiment."
+    }
+  ],
+  "narration_notes": "Continuous original English narration, no exercises or response prompts. The source is credited in the narration. All sorghum and CPlantBox/DuMuX applications are explicitly framed as proposals, not paper findings.",
+  "checked_on": "2026-10-01",
+  "source": {
+    "title": "Ethylene modulates cell wall mechanics for root responses to compaction",
+    "journal": "Nature",
+    "authors": [
+      "Jiao Zhang",
+      "Zengyu Liu",
+      "Edward J. Farrar",
+      "Minhao Li",
+      "Hui Lu",
+      "Zhuo Qu",
+      "Osvaldo Chara",
+      "Nobutaka Mitsuda",
+      "Shingo Sakamoto",
+      "Feiyang Xue",
+      "Qiji Shan",
+      "Ya Yu",
+      "Jingbin Li",
+      "Xiaobo Zhu",
+      "Mingyuan Zhu",
+      "Jin Shi",
+      "Lucas Peralta Ogorek",
+      "Augusto Borges",
+      "Malcolm J. Bennett",
+      "Wanqi Liang",
+      "Bipin K. Pandey",
+      "Dabing Zhang",
+      "Staffan Persson"
+    ],
+    "publication_date": "2025-11-26",
+    "issue_date": "2026-01-15",
+    "url": "https://www.nature.com/articles/s41586-025-09765-7",
+    "doi": "10.1038/s41586-025-09765-7",
+    "doi_url": "https://doi.org/10.1038/s41586-025-09765-7",
+    "accessed_on": "2026-10-01",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "script_sha256": "d6da372f2c094b8e4f4928736c63b890ed4bdd1ed4cbe7bc46fbd769f22886d6",
+  "scope_note": "Rice seedling mechanics study. Sorghum experiments and CPlantBox/DuMuX applications are clearly labelled proposals, not demonstrated outcomes; no direct transfer of AFM section stiffness to living roots.",
+  "id": "2026-10-01-ethylene-compaction",
+  "category": "Research",
+  "difficulty": 2,
+  "target_minutes": 10,
+  "main_idea": "A guided explanation of how ethylene signalling, cellulose production, and different root cell layers interact in rice seedlings growing through compacted soil. The lesson separates experimental findings from proposed sorghum and coupled-model applications.",
+  "source_name": "Ethylene modulates cell wall mechanics for root responses to compaction",
+  "source_type": "Original research article",
+  "source_published": "2025-11-26",
+  "source_checked": "2026-10-01",
+  "words": [
+    "compaction: Soil particles being pressed closer together.",
+    "diffusion: Molecules spreading through available space.",
+    "ethylene: A gas produced by plants that also acts as a growth signal.",
+    "epidermis: The outermost cell layer of the root.",
+    "cortex: The region of several cell layers inside the root surface.",
+    "cellulose: A strong material made from chains of sugar molecules in plant cell walls.",
+    "transcription factor: A protein that helps control how actively genes are used.",
+    "bulk density: The amount of dry soil packed into a volume that includes its pores.",
+    "overexpression: Producing more of a gene product than usual.",
+    "buckling: Sudden bending of a structure under pressure.",
+    "parameter: A numerical value describing part of a model."
+  ],
+  "published": true,
+  "voice": {
+    "model": "Kokoro-82M v1.0 full-precision ONNX",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "type": "synthetic neural narration"
+  },
+  "sort_order": 1
+}

@@ -1,0 +1,39 @@
+{
+  "project_name": "Listening Library",
+  "chat_shorthand": "/listening",
+  "maintenance": "on_user_request_only",
+  "default_target_minutes": 10,
+  "allowed_target_minutes": [
+    10,
+    30
+  ],
+  "categories": [
+    "Research",
+    "Technology",
+    "Nature",
+    "Life",
+    "Culture"
+  ],
+  "default_level": "B1-B2; former CET-4 learner; explain technical terms frequently in natural English",
+  "research_priorities": [
+    "soil-plant interactions",
+    "rhizosphere microbiomes and root traits",
+    "AI",
+    "English-language research paper introductions"
+  ],
+  "source_policy": "Prefer original peer-reviewed research, scholarly journals, universities, public institutions and official reports; verify facts and preserve uncertainty.",
+  "voice_preference": "natural neural English narration; never a robotic system-voice fallback",
+  "listening_mode": "passive continuous narration; no questions, exercises or response requirements unless requested",
+  "paper_metadata_required": [
+    "journal",
+    "authors",
+    "publication_date",
+    "source_url",
+    "matching_script"
+  ],
+  "preferred_journals": [
+    "Nature",
+    "Science",
+    "leading soil–plant–root domain journals"
+  ]
+}

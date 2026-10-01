@@ -1,0 +1,235 @@
+{
+  "voice": "af_heart",
+  "model": "Kokoro-82M v1.0, full-precision ONNX",
+  "engine": "kokoro-onnx 0.6.1",
+  "modelSource": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+  "voiceSource": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+  "modelSHA256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+  "voicesSHA256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+  "speed": 1.0,
+  "sampleRate": 24000,
+  "channels": 1,
+  "bitRate": 128000,
+  "wordCount": 1812,
+  "durationSeconds": 686.736,
+  "pcmDurationSeconds": 686.6722916666666,
+  "runtimeSeconds": 298.98253202438354,
+  "scriptSHA256": "3d2a02e2ae02be73acbea8e5a171b8f8a07074c4b3c6e78f825fc47e57739315",
+  "mp3SHA256": "41400b151d2bbc25370cf482d908871d3e0548c92a017e0275903090f3c7016e",
+  "peakAmplitudeBeforeNormalization": 0.6095500588417053,
+  "rmsBeforeNormalization": 0.05865372344851494,
+  "paragraphPauseSeconds": 0.35,
+  "silencePadding": false,
+  "timeStretching": false,
+  "meetsMinimumDuration": true,
+  "paragraphs": [
+    {
+      "index": 1,
+      "text": "Welcome. Today we will look at a very small part of the root system: the root hair. A root hair is a thin extension of one cell on the root surface. It can reach between soil particles where the main root cannot go. Root hairs are important for taking up some nutrients. Their role in water uptake, however, has been much less clear.",
+      "spokenText": "Welcome. Today we will look at a very small part of the root system: the root hair. A root hair is a thin extension of one cell on the root surface. It can reach between soil particles where the main root cannot go. Root hairs are important for taking up some nutrients. Their role in water uptake, however, has been much less clear.",
+      "startSeconds": 0.0,
+      "durationSeconds": 20.303,
+      "words": 63
+    },
+    {
+      "index": 2,
+      "text": "Our paper is called \u201cThe effect of root hairs on root water uptake is determined by root\u2013soil contact and root hair shrinkage.\u201d Patrick Duddek and six colleagues published it in New Phytologist in July twenty twenty-three. The researchers combined detailed images of maize roots with computer simulations. Their central idea is that root hairs help only when they create a useful pathway for water. Their size alone does not tell the whole story.",
+      "spokenText": "Our paper is called \u201cThe effect of root hairs on root water uptake is determined by root\u2013soil contact and root hair shrinkage.\u201d Patrick Duddek and six colleagues published it in New Phytologist in July twenty twenty-three. The researchers combined detailed images of maize roots with computer simulations. Their central idea is that root hairs help only when they create a useful pathway for water. Their size alone does not tell the whole story.",
+      "startSeconds": 20.653,
+      "durationSeconds": 26.953,
+      "words": 73
+    },
+    {
+      "index": 3,
+      "text": "Imagine a root surrounded by soil. It is tempting to picture the entire root surface touching wet soil. Real soil is more complicated. It contains particles, groups of particles, and pores. Pores are spaces between the solid material. Some contain water and others contain air. Parts of the root may touch soil, while other parts face an air-filled gap. Water cannot move equally easily through all these surroundings.",
+      "spokenText": "Imagine a root surrounded by soil. It is tempting to picture the entire root surface touching wet soil. Real soil is more complicated. It contains particles, groups of particles, and pores. Pores are spaces between the solid material. Some contain water and others contain air. Parts of the root may touch soil, while other parts face an air-filled gap. Water cannot move equally easily through all these surroundings.",
+      "startSeconds": 47.957,
+      "durationSeconds": 25.756,
+      "words": 68
+    },
+    {
+      "index": 4,
+      "text": "The area close to a root is called the rhizosphere. This word means the soil region influenced by the root. The study paid particular attention to the boundary between roots and soil, often called the root\u2013soil interface. Contact at this boundary matters because the water must cross from the soil into the plant. A root hair may provide an extra connection across a gap or reach another soil surface.",
+      "spokenText": "The area close to a root is called the rhizosphere. This word means the soil region influenced by the root. The study paid particular attention to the boundary between roots and soil, often called the root\u2013soil interface. Contact at this boundary matters because the water must cross from the soil into the plant. A root hair may provide an extra connection across a gap or reach another soil surface.",
+      "startSeconds": 74.063,
+      "durationSeconds": 24.062,
+      "words": 69
+    },
+    {
+      "index": 5,
+      "text": "This suggests a more precise question than simply asking whether root hairs are good. How much useful root\u2013soil contact do they add? A long hair that mostly passes through air may provide less useful contact than a shorter hair that touches moist soil. This is an illustration of the mechanism, not a separate experiment from the paper. The value of a hair depends on both the plant and its surroundings.",
+      "spokenText": "This suggests a more precise question than simply asking whether root hairs are good. How much useful root\u2013soil contact do they add? A long hair that mostly passes through air may provide less useful contact than a shorter hair that touches moist soil. This is an illustration of the mechanism, not a separate experiment from the paper. The value of a hair depends on both the plant and its surroundings.",
+      "startSeconds": 98.475,
+      "durationSeconds": 24.351,
+      "words": 70
+    },
+    {
+      "index": 6,
+      "text": "To investigate this, the researchers grew maize seedlings in small containers filled with loamy soil. After about two weeks, they scanned root and soil samples using powerful X-rays at synchrotron facilities. A synchrotron is a research machine that produces very bright X-rays. The scans allowed the team to build three-dimensional images at a scale fine enough to see individual root hairs and nearby soil spaces.",
+      "spokenText": "To investigate this, the researchers grew maize seedlings in small containers filled with loamy soil. After about two weeks, they scanned root and soil samples using powerful X-rays at synchrotron facilities. A synchrotron is a research machine that produces very bright X-rays. The scans allowed the team to build three-dimensional images at a scale fine enough to see individual root hairs and nearby soil spaces.",
+      "startSeconds": 123.175,
+      "durationSeconds": 25.855,
+      "words": 65
+    },
+    {
+      "index": 7,
+      "text": "The images were divided into different regions: root tissues, hairs, soil material, and air-filled pores. This image-processing step is called segmentation. It is like giving each tiny part of an image a label. The team then turned these labeled images into a computer representation for calculating water movement. Their main comparisons used six small root segments, each about one point four millimeters long.",
+      "spokenText": "The images were divided into different regions: root tissues, hairs, soil material, and air-filled pores. This image-processing step is called segmentation. It is like giving each tiny part of an image a label. The team then turned these labeled images into a computer representation for calculating water movement. Their main comparisons used six small root segments, each about one point four millimeters long.",
+      "startSeconds": 149.381,
+      "durationSeconds": 25.493,
+      "words": 63
+    },
+    {
+      "index": 8,
+      "text": "A particularly useful part of the method was the comparison between digital twins. Here, twins means two versions of the same root segment and surrounding soil. One version kept the root hairs. In the other, the researchers removed the hairs digitally. Much of the remaining geometry stayed the same. This helped isolate the direct effect of the hairs without comparing two plants that might differ in many other ways.",
+      "spokenText": "A particularly useful part of the method was the comparison between digital twins. Here, twins means two versions of the same root segment and surrounding soil. One version kept the root hairs. In the other, the researchers removed the hairs digitally. Much of the remaining geometry stayed the same. This helped isolate the direct effect of the hairs without comparing two plants that might differ in many other ways.",
+      "startSeconds": 175.223,
+      "durationSeconds": 25.022,
+      "words": 69
+    },
+    {
+      "index": 9,
+      "text": "That distinction matters because a plant without normal root hairs may respond in other ways. It might grow a larger root system or change how it shares resources between roots and shoots. A comparison between two living plant types can include these extra differences. The digital approach reduced that problem. At the same time, it could not capture every response that a real living plant would make.",
+      "spokenText": "That distinction matters because a plant without normal root hairs may respond in other ways. It might grow a larger root system or change how it shares resources between roots and shoots. A comparison between two living plant types can include these extra differences. The digital approach reduced that problem. At the same time, it could not capture every response that a real living plant would make.",
+      "startSeconds": 200.595,
+      "durationSeconds": 24.318,
+      "words": 67
+    },
+    {
+      "index": 10,
+      "text": "Now let us consider the water calculation. Water moves because of differences in water potential. Water potential describes the energy state of water and helps explain the direction of flow. In drying soil, water is held more tightly. Its matric potential becomes more negative. Matric potential refers to the effect of soil surfaces and pore spaces on water. A more negative value generally means that extracting water is harder.",
+      "spokenText": "Now let us consider the water calculation. Water moves because of differences in water potential. Water potential describes the energy state of water and helps explain the direction of flow. In drying soil, water is held more tightly. Its matric potential becomes more negative. Matric potential refers to the effect of soil surfaces and pore spaces on water. A more negative value generally means that extracting water is harder.",
+      "startSeconds": 225.263,
+      "durationSeconds": 26.729,
+      "words": 69
+    },
+    {
+      "index": 11,
+      "text": "The researchers set different water potentials at the outer edge of each soil sample. They kept the inner root boundary at a fixed, lower potential, creating a driving force for uptake. They then calculated how water moved through the soil and root regions. They compared steady-state results. Steady state means that the calculated water-flow pattern had stopped changing with time under the imposed conditions.",
+      "spokenText": "The researchers set different water potentials at the outer edge of each soil sample. They kept the inner root boundary at a fixed, lower potential, creating a driving force for uptake. They then calculated how water moved through the soil and root regions. They compared steady-state results. Steady state means that the calculated water-flow pattern had stopped changing with time under the imposed conditions.",
+      "startSeconds": 252.342,
+      "durationSeconds": 23.433,
+      "words": 64
+    },
+    {
+      "index": 12,
+      "text": "Another useful term is hydraulic conductivity. It describes how easily water moves through a material under a given driving force. Wet soil can carry water relatively easily. As soil dries, its hydraulic conductivity can fall sharply. Narrow water pathways become less connected. Water may still be present, but its movement toward the root becomes difficult. This difference between water being present and water being accessible is central to the study.",
+      "spokenText": "Another useful term is hydraulic conductivity. It describes how easily water moves through a material under a given driving force. Wet soil can carry water relatively easily. As soil dries, its hydraulic conductivity can fall sharply. Narrow water pathways become less connected. Water may still be present, but its movement toward the root becomes difficult. This difference between water being present and water being accessible is central to the study.",
+      "startSeconds": 276.125,
+      "durationSeconds": 26.633,
+      "words": 70
+    },
+    {
+      "index": 13,
+      "text": "In relatively wet conditions, the model found little benefit from hairs. Water could move through the soil more easily, and resistance inside the root could be the more important limit. Under drier conditions, the soil became a stronger obstacle. Root hairs could then help by collecting water across a wider set of contact points. The water did not have to enter only through the smaller contact area of the main root cylinder.",
+      "spokenText": "In relatively wet conditions, the model found little benefit from hairs. Water could move through the soil more easily, and resistance inside the root could be the more important limit. Under drier conditions, the soil became a stronger obstacle. Root hairs could then help by collecting water across a wider set of contact points. The water did not have to enter only through the smaller contact area of the main root cylinder.",
+      "startSeconds": 303.109,
+      "durationSeconds": 25.13,
+      "words": 72
+    },
+    {
+      "index": 14,
+      "text": "In the driest scenario of the main comparison, the modeled increase in uptake from hairs averaged about twenty-four percent. There was substantial variation among the six samples. This result applied to simulations that kept the hairs functioning without the added shrinkage response. It was not a measured increase in whole-plant water use, crop yield, or field drought tolerance. The scale and assumptions are essential to the meaning of the number.",
+      "spokenText": "In the driest scenario of the main comparison, the modeled increase in uptake from hairs averaged about twenty-four percent. There was substantial variation among the six samples. This result applied to simulations that kept the hairs functioning without the added shrinkage response. It was not a measured increase in whole-plant water use, crop yield, or field drought tolerance. The scale and assumptions are essential to the meaning of the number.",
+      "startSeconds": 328.589,
+      "durationSeconds": 25.855,
+      "words": 70
+    },
+    {
+      "index": 15,
+      "text": "The strongest statistical relationship concerned extra contact. The increase in root\u2013soil contact produced by hairs explained about eighty-six percent of the variation in their modeled uptake benefit across the six samples. This does not mean that hairs supplied eighty-six percent of the water. It means that differences in the added contact were closely related to differences in the calculated benefit. With only six geometries, the result still needs broader testing.",
+      "spokenText": "The strongest statistical relationship concerned extra contact. The increase in root\u2013soil contact produced by hairs explained about eighty-six percent of the variation in their modeled uptake benefit across the six samples. This does not mean that hairs supplied eighty-six percent of the water. It means that differences in the added contact were closely related to differences in the calculated benefit. With only six geometries, the result still needs broader testing.",
+      "startSeconds": 354.794,
+      "durationSeconds": 28.212,
+      "words": 70
+    },
+    {
+      "index": 16,
+      "text": "We can picture the mechanism as spreading the collection area. Without hairs, water flow may be concentrated through a few useful contacts around the root. The nearby soil can then develop a strong drop in water potential. With hairs, uptake is spread over more places in the surrounding soil. In the model, this reduced the sharp local change near the root surface and allowed more water to reach the root.",
+      "spokenText": "We can picture the mechanism as spreading the collection area. Without hairs, water flow may be concentrated through a few useful contacts around the root. The nearby soil can then develop a strong drop in water potential. With hairs, uptake is spread over more places in the surrounding soil. In the model, this reduced the sharp local change near the root surface and allowed more water to reach the root.",
+      "startSeconds": 383.356,
+      "durationSeconds": 23.924,
+      "words": 70
+    },
+    {
+      "index": 17,
+      "text": "But there is a second part to the story: hairs themselves can dry and shrink. Living root hairs are normally supported by internal pressure, called turgor. Turgor helps a plant cell remain firm. When a hair loses this pressure, it may shrink and become a less effective water pathway. The study therefore added two scenarios describing different patterns of hair shrinkage as soil water potential decreased.",
+      "spokenText": "But there is a second part to the story: hairs themselves can dry and shrink. Living root hairs are normally supported by internal pressure, called turgor. Turgor helps a plant cell remain firm. When a hair loses this pressure, it may shrink and become a less effective water pathway. The study therefore added two scenarios describing different patterns of hair shrinkage as soil water potential decreased.",
+      "startSeconds": 407.63,
+      "durationSeconds": 24.329,
+      "words": 66
+    },
+    {
+      "index": 18,
+      "text": "These shrinkage scenarios changed the answer considerably. When hairs lost their useful conductivity relatively early, their positive effect disappeared in the tested range. In the later-shrinkage scenario, a benefit remained over a limited range of soil water potentials, roughly between minus one and minus zero point one megapascals. A megapascal is a pressure unit used to express water potential. The important point is the window of benefit, rather than memorizing the numbers.",
+      "spokenText": "These shrinkage scenarios changed the answer considerably. When hairs lost their useful conductivity relatively early, their positive effect disappeared in the tested range. In the later-shrinkage scenario, a benefit remained over a limited range of soil water potentials, roughly between minus one and minus zero point one megapascals. A megapascal is a pressure unit used to express water potential. The important point is the window of benefit, rather than memorizing the numbers.",
+      "startSeconds": 432.309,
+      "durationSeconds": 30.904,
+      "words": 72
+    },
+    {
+      "index": 19,
+      "text": "This gives a balance between two processes. Soil drying makes additional contact potentially more valuable, because water movement through the soil becomes harder. Yet the same drying can damage the effectiveness of the hairs. Their benefit depends on which process becomes important first. A trait can therefore be helpful under one level of dryness and much less helpful under another. More severe stress does not necessarily mean a larger benefit.",
+      "spokenText": "This gives a balance between two processes. Soil drying makes additional contact potentially more valuable, because water movement through the soil becomes harder. Yet the same drying can damage the effectiveness of the hairs. Their benefit depends on which process becomes important first. A trait can therefore be helpful under one level of dryness and much less helpful under another. More severe stress does not necessarily mean a larger benefit.",
+      "startSeconds": 463.563,
+      "durationSeconds": 26.518,
+      "words": 70
+    },
+    {
+      "index": 20,
+      "text": "The authors were careful about the limits of their approach. The root pieces were short and did not grow during the simulations. A whole plant can produce new roots, explore wetter soil, and change its water demand. The small-segment model did not include all these responses. Its purpose was to explain a local mechanism. It was not designed to predict an entire field's water use directly.",
+      "spokenText": "The authors were careful about the limits of their approach. The root pieces were short and did not grow during the simulations. A whole plant can produce new roots, explore wetter soil, and change its water demand. The small-segment model did not include all these responses. Its purpose was to explain a local mechanism. It was not designed to predict an entire field's water use directly.",
+      "startSeconds": 490.431,
+      "durationSeconds": 23.786,
+      "words": 66
+    },
+    {
+      "index": 21,
+      "text": "There were limits in the soil representation too. The study used maize grown in small containers and one loamy soil. Soil packing near container walls can differ from conditions elsewhere. The model did not include all the ways roots and hairs can change soil structure over time. It also did not represent every effect of root tissue shrinkage or soil swelling. These missing processes may matter when moving to other soils or longer time periods.",
+      "spokenText": "There were limits in the soil representation too. The study used maize grown in small containers and one loamy soil. Soil packing near container walls can differ from conditions elsewhere. The model did not include all the ways roots and hairs can change soil structure over time. It also did not represent every effect of root tissue shrinkage or soil swelling. These missing processes may matter when moving to other soils or longer time periods.",
+      "startSeconds": 514.567,
+      "durationSeconds": 26.878,
+      "words": 75
+    },
+    {
+      "index": 22,
+      "text": "Root hair hydraulic properties were another uncertainty. The researchers could image hair geometry in detail, but measuring water conductivity inside tiny living hairs in soil is difficult. Some root hydraulic parameters were estimated using information from other work, including measurements on lupin roots. The study tested sensitivity to parameter choices, but that does not replace direct measurement. Sensitivity analysis means checking how much the answer changes when an uncertain input changes.",
+      "spokenText": "Root hair hydraulic properties were another uncertainty. The researchers could image hair geometry in detail, but measuring water conductivity inside tiny living hairs in soil is difficult. Some root hydraulic parameters were estimated using information from other work, including measurements on lupin roots. The study tested sensitivity to parameter choices, but that does not replace direct measurement. Sensitivity analysis means checking how much the answer changes when an uncertain input changes.",
+      "startSeconds": 541.795,
+      "durationSeconds": 32.373,
+      "words": 71
+    },
+    {
+      "index": 23,
+      "text": "For sorghum research using CPlantBox and DuMuX, the useful connection is an inference from this paper. It is not a sorghum result. A whole-root model may represent each root as a simple line or cylinder. That is efficient, but the real contact at the soil boundary is much more detailed. This study suggests that an effective contact or conductance description could be more informative than assuming every part of the root surface works equally well.",
+      "spokenText": "For sorghum research using C Plant Box and Doo mooks, the useful connection is an inference from this paper. It is not a sorghum result. A whole-root model may represent each root as a simple line or cylinder. That is efficient, but the real contact at the soil boundary is much more detailed. This study suggests that an effective contact or conductance description could be more informative than assuming every part of the root surface works equally well.",
+      "startSeconds": 574.518,
+      "durationSeconds": 26.665,
+      "words": 75
+    },
+    {
+      "index": 24,
+      "text": "Effective here means that a simpler value represents the combined effect of many small details. It does not mean the value is universal. A useful value might depend on soil texture, local pore structure, water potential, and hair condition. Transferring a single number from these maize samples into a sorghum simulation would therefore be difficult to justify. The mechanism can guide the model, while the parameters still need evidence relevant to sorghum.",
+      "spokenText": "Effective here means that a simpler value represents the combined effect of many small details. It does not mean the value is universal. A useful value might depend on soil texture, local pore structure, water potential, and hair condition. Transferring a single number from these maize samples into a sorghum simulation would therefore be difficult to justify. The mechanism can guide the model, while the parameters still need evidence relevant to sorghum.",
+      "startSeconds": 601.533,
+      "durationSeconds": 26.623,
+      "words": 72
+    },
+    {
+      "index": 25,
+      "text": "A possible new modeling study could compare the same sorghum root architecture with several contact assumptions. It could keep soil conditions and plant demand fixed, then examine how the predicted uptake changes as the soil dries. A second comparison could add a drying-dependent loss of hair effectiveness. These would be proposed tests, not results already shown by Duddek and colleagues. Their value would be to identify when the small-scale process changes a whole-plant prediction.",
+      "spokenText": "A possible new modeling study could compare the same sorghum root architecture with several contact assumptions. It could keep soil conditions and plant demand fixed, then examine how the predicted uptake changes as the soil dries. A second comparison could add a drying-dependent loss of hair effectiveness. These would be proposed tests, not results already shown by Duddek and colleagues. Their value would be to identify when the small-scale process changes a whole-plant prediction.",
+      "startSeconds": 628.506,
+      "durationSeconds": 30.543,
+      "words": 74
+    },
+    {
+      "index": 26,
+      "text": "The main lesson is that root hairs are part of a connected water pathway. Their contribution depends on where they touch the soil and whether they remain able to transport water. A larger surface is not automatically a better connection. The paper helps explain why different studies can find different benefits from hairs. For modeling, it encourages a clear question: which part of the soil\u2013root pathway limits uptake, and how does that limiting part change as the soil dries?",
+      "spokenText": "The main lesson is that root hairs are part of a connected water pathway. Their contribution depends on where they touch the soil and whether they remain able to transport water. A larger surface is not automatically a better connection. The paper helps explain why different studies can find different benefits from hairs. For modeling, it encourages a clear question: which part of the soil\u2013root pathway limits uptake, and how does that limiting part change as the soil dries?",
+      "startSeconds": 659.399,
+      "durationSeconds": 27.273,
+      "words": 79
+    }
+  ]
+}

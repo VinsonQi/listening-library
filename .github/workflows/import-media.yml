@@ -1,0 +1,30 @@
+name: Import verified lesson media
+on:
+  push:
+    paths: ['.github/workflows/import-media.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+      - name: Download and verify the exact public media
+        run: python3 tools/import_github_media.py
+      - name: Validate the complete library
+        run: |
+          python3 tools/validate_site.py
+          node --check dist/app.js
+      - name: Commit the verified media to this repository
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add content/lessons dist/lessons
+          if git diff --cached --quiet; then
+            echo 'Media already present'
+          else
+            git commit -m 'Import verified audio and PDFs for five paper lessons'
+            git push origin HEAD:main
+          fi

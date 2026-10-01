@@ -1,0 +1,18 @@
+{
+  "file": "recap.pdf",
+  "page_count": 6,
+  "page_size": "A4",
+  "full_script_verified": true,
+  "script_sha256": "ac7d3f6f1a4a0e49ff6d0460c10e2772f156eb84c9b0caf1c802f9b80881b334",
+  "script_words": 1771,
+  "glossary_entries": 10,
+  "clickable_links": [
+    "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641",
+    "https://doi.org/10.1111/nph.14641",
+    "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14641"
+  ],
+  "all_characters_within_page_bounds": true,
+  "pdf_sha256": "9ac2cff39076f937f6fd62f5278bd4fe87f117bd7196bbc35cd7f3db1cfe9851",
+  "pdf_size_bytes": 119017,
+  "visual_review": "All six rendered pages inspected, including full-size glossary/source samples; readable layout, no clipping, overlap or missing glyphs."
+}

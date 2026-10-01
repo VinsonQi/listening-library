@@ -1,0 +1,62 @@
+{
+  "paper_title": "Ethylene modulates cell wall mechanics for root responses to compaction",
+  "source_url": "https://www.nature.com/articles/s41586-025-09765-7",
+  "doi": "10.1038/s41586-025-09765-7",
+  "access": "Full journal HTML including main results, figure captions, and methods read; original article open access CC BY 4.0. No reliance on an abstract alone.",
+  "verified_claims": [
+    {
+      "claim": "In compacted soil, cesa6 rice roots were longer than wild type, while lengths were similar in germination pouches.",
+      "evidence_location": "Reduced cellulose aids root penetration; Figure 1a–d.",
+      "source_url": "https://www.nature.com/articles/s41586-025-09765-7"
+    },
+    {
+      "claim": "Non-compacted and compacted soil treatments used bulk densities of 1.2 and 1.6 g cm−3. Main CT comparisons examined 5-day-old seedlings.",
+      "evidence_location": "Methods: Soil compaction details; X-ray CT imaging; Figure 1 caption.",
+      "source_url": "https://www.nature.com/articles/s41586-025-09765-7"
+    },
+    {
+      "claim": "OsARF1 binds regulatory regions of several CESA genes and represses promoter activity; dense conditions increase its expression particularly in the cortex.",
+      "evidence_location": "OsARF1 binds CESA promoters; Figure 2b–f; Figure 3a–b.",
+      "source_url": "https://www.nature.com/articles/s41586-025-09765-7"
+    },
+    {
+      "claim": "Compacted soil reduced wild-type root length by 35% and OE-ARF1 root length by 19% in the reported comparison.",
+      "evidence_location": "OsARF1 controls root penetration via CESA; Figure 3f,h.",
+      "source_url": "https://www.nature.com/articles/s41586-025-09765-7"
+    },
+    {
+      "claim": "Cortex wall thinning and expansion were associated with cellulose regulation; dense media produced thicker epidermal walls.",
+      "evidence_location": "Roots modify cell walls under compaction; Figure 4a–g.",
+      "source_url": "https://www.nature.com/articles/s41586-025-09765-7"
+    },
+    {
+      "claim": "The authors explicitly caution that AFM on sectioned material gives comparative values rather than in-vivo wall stiffness.",
+      "evidence_location": "Roots modify cell walls under compaction, paragraph explaining AFM; Methods: Cell wall stiffness experimental details.",
+      "source_url": "https://www.nature.com/articles/s41586-025-09765-7"
+    },
+    {
+      "claim": "Ethylene precursor treatment strongly induced OsARF1, and ethylene-pathway mutants were tested; the authors leave other hormonal relationships unresolved.",
+      "evidence_location": "Compaction induces OsARF1 via ethylene; Figure 4h–j; Extended Data Figure 10.",
+      "source_url": "https://www.nature.com/articles/s41586-025-09765-7"
+    }
+  ],
+  "limitations": [
+    "Rice seedling experiments, not a sorghum trial or a multi-location yield trial.",
+    "Controlled agar and packed-soil conditions are not equivalent to heterogeneous fields.",
+    "Wall stiffness measured on prepared sections cannot be directly treated as intact-root stiffness.",
+    "Thin ethylene-insensitive roots can also penetrate well, so root width alone is not a general predictor.",
+    "Buckling and stability explanations are mechanistic interpretations rather than direct measurements of all forces in living roots."
+  ],
+  "application_status": "Proposed sorghum measurements and coupled CPlantBox/DuMuX hypotheses are explicitly marked as extrapolation. No claim is made that these tools already implement the pathway or that rice parameters transfer to sorghum.",
+  "numerical_checks": {
+    "word_count": 1767,
+    "bulk_density_g_cm3": [
+      1.2,
+      1.6
+    ],
+    "wild_type_length_inhibition_percent": 35,
+    "OE_ARF1_length_inhibition_percent": 19
+  },
+  "license": "CC BY 4.0, verified in Rights and permissions section",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/"
+}
